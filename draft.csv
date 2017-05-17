@@ -1,0 +1,823 @@
+Year,Round,Pick,Player,Position,NBA Team,Prev Team
+2007,1,1,"Oden, Greg",C,Portland Trail Blazers,Ohio State
+2007,1,2,"Durant, Kevin",SF,Seattle SuperSonics,Texas
+2007,1,3,"Horford, Al",C,Atlanta Hawks,Florida
+2007,1,4,"Conley, Mike",PG,Memphis Grizzlies,Ohio State
+2007,1,5,"Green, Jeff",SF,Boston Celtics,Georgetown
+2007,1,6,"Yi, Jianlian",PF,Milwaukee Bucks,Guangdong Southern Tigers
+2007,1,7,"Brewer, Corey",SF,Minnesota Timberwolves,Florida
+2007,1,8,"Wright, Brandan",PF,Charlotte Bobcats,North Carolina
+2007,1,9,"Noah, Joakim",C,Chicago Bulls,Florida
+2007,1,10,"Hawes, Spencer",C,Sacramento Kings,Washington
+2007,1,11,"Law, Acie",PG,Atlanta Hawks,Texas A&M
+2007,1,12,"Young, Thaddeus",PF,Philadelphia 76ers,Georgia Tech
+2007,1,13,"Wright, Julian",SF,New Orleans Hornets,Kansas
+2007,1,14,"Thornton, Al",SF,Los Angeles Clippers,Florida State
+2007,1,15,"Stuckey, Rodney",SG,Detroit Pistons,Eastern Washington
+2007,1,16,"Young, Nick",SG,Washington Wizards,USC
+2007,1,17,"Williams, Sean",PF,New Jersey Nets,Boston College
+2007,1,18,"Belinelli, Marco",SG,Golden State Warriors,Fortitudo Bologna
+2007,1,19,"Crittenton, Javaris",PG,Los Angeles Lakers,Georgia Tech
+2007,1,20,"Smith, Jason",PF,Miami Heat,Colorado State
+2007,1,21,"Cook, Daequan",SG,Philadelphia 76ers,Ohio State
+2007,1,22,"Dudley, Jared",SF,Charlotte Bobcats,Boston College
+2007,1,23,"Chandler, Wilson",SF,New York Knicks,DePaul
+2007,1,24,"Fernández, Rudy",SG,Phoenix Suns,Joventut Badalona
+2007,1,25,"Almond, Morris",SG,Utah Jazz,Rice
+2007,1,26,"Brooks, Aaron",PG,Houston Rockets,Oregon
+2007,1,27,"Afflalo, Arron",SG,Detroit Pistons,UCLA
+2007,1,28,"Splitter, Tiago",C,San Antonio Spurs,TAU Cerámica
+2007,1,29,"Tucker, Alando",SF,Phoenix Suns,Wisconsin
+2007,1,30,"Koponen, Petteri",SG,Philadelphia 76ers,Tapiolan Honka
+2007,2,31,"Landry, Carl",PF,Seattle SuperSonics,Purdue
+2007,2,32,"Pruitt, Gabe",PG,Boston Celtics,USC
+2007,2,33,"Williams, Marcus",SF,San Antonio Spurs,Arizona
+2007,2,34,"Fazekas, Nick",PF,Dallas Mavericks,Nevada
+2007,2,35,"Davis, Glen",PF,Seattle SuperSonics,LSU
+2007,2,36,"Davidson, Jermareo",PF,Golden State Warriors,Alabama
+2007,2,37,"McRoberts, Josh",PF,Portland Trail Blazers,Duke
+2007,2,38,"Fesenko, Kyrylo",C,Philadelphia 76ers,SK Cherkassy
+2007,2,39,"Barać, Stanko",C,Miami Heat,Široki Brijeg
+2007,2,40,"Sun, Yue",SF,Los Angeles Lakers,Beijing Olympians
+2007,2,41,"Richard, Chris",PF,Minnesota Timberwolves,Florida
+2007,2,42,"Byars, Derrick",SG,Portland Trail Blazers,Vanderbilt
+2007,2,43,"Haluska, Adam",SG,New Orleans Hornets,Iowa
+2007,2,44,"Terry, Reyshawn",SF,Orlando Magic,North Carolina
+2007,2,45,"Jordan, Jared",PG,Los Angeles Clippers,Marist
+2007,2,46,"Lasme, Stephane",PF,Golden State Warriors,Massachusetts
+2007,2,47,"McGuire, Dominic",SF,Washington Wizards,Fresno State
+2007,2,48,"Gasol, Marc",C,Los Angeles Lakers,Akasvayu Girona
+2007,2,49,"Gray, Aaron",C,Chicago Bulls,Pittsburgh
+2007,2,50,"Seibutis, Renaldas",SG,Dallas Mavericks,Maroussi
+2007,2,51,"Curry, JamesOn",PG,Chicago Bulls,Oklahoma State
+2007,2,52,"Green, Taurean",PG,Portland Trail Blazers,Florida
+2007,2,53,"Nichols, Demetris",SF,Portland Trail Blazers,Syracuse
+2007,2,54,"Newley, Brad",SF,Houston Rockets,Townsville Crocodiles
+2007,2,55,"Hill, Herbert",PF,Utah Jazz,Providence
+2007,2,56,"Sessions, Ramon",PG,Milwaukee Bucks,Nevada
+2007,2,57,"Mejia, Sammy",SG,Detroit Pistons,DePaul
+2007,2,58,"Printezis, Giorgos",PF,San Antonio Spurs,Olympia Larissa
+2007,2,59,"Strawberry, D.J.",PG,Phoenix Suns,Maryland
+2007,2,60,"Raković, Milovan",C,Dallas Mavericks,Mega Ishrana
+2006,1,1,"Bargnani, Andrea",PF,Toronto Raptors,Benetton Treviso
+2006,1,2,"Aldridge, LaMarcus",PF,Chicago Bulls,Texas
+2006,1,3,"Morrison, Adam",SF,Charlotte Bobcats,Gonzaga
+2006,1,4,"Thomas, Tyrus",PF,Portland Trail Blazers,LSU
+2006,1,5,"Williams, Shelden",PF,Atlanta Hawks,Duke
+2006,1,6,"Roy, Brandon",SG,Minnesota Timberwolves,Washington
+2006,1,7,"Foye, Randy",SG,Boston Celtics,Villanova
+2006,1,8,"Gay, Rudy",SF,Houston Rockets,Connecticut
+2006,1,9,"O'Bryant, Patrick",C,Golden State Warriors,Bradley
+2006,1,10,"Sene, Mouhamed",C,Seattle SuperSonics,Verviers-Pepinster
+2006,1,11,"Redick, J. J.",SG,Orlando Magic,Duke
+2006,1,12,"Armstrong, Hilton",C,New Orleans/Oklahoma City Hornets,Connecticut
+2006,1,13,"Sefolosha, Thabo",SG,Philadelphia 76ers,Angelico Biella
+2006,1,14,"Brewer, Ronnie",SG,Utah Jazz,Arkansas
+2006,1,15,"Simmons, Cedric",SF,New Orleans/Oklahoma City Hornets,NC State
+2006,1,16,"Carney, Rodney",SF,Chicago Bulls,Memphis
+2006,1,17,"Williams, Shawne",PF,Indiana Pacers,Memphis
+2006,1,18,"Pecherov, Oleksiy",C,Washington Wizards,BC Kyiv
+2006,1,19,"Douby, Quincy",G,Sacramento Kings,Rutgers
+2006,1,20,"Balkman, Renaldo",F,New York Knicks,South Carolina
+2006,1,21,"Rondo, Rajon",PG,Phoenix Suns,Kentucky
+2006,1,22,"Williams, Marcus",G,New Jersey Nets,Connecticut
+2006,1,23,"Boone, Josh",F,New Jersey Nets,Connecticut
+2006,1,24,"Lowry, Kyle",PG,Memphis Grizzlies,Villanova
+2006,1,25,"Brown, Shannon",G,Cleveland Cavaliers,Michigan State
+2006,1,26,"Farmar, Jordan",G,Los Angeles Lakers,UCLA
+2006,1,27,"Rodríguez, Sergio",G,Phoenix Suns,Adecco Estudiantes
+2006,1,28,"Ager, Maurice",G,Dallas Mavericks,Michigan State
+2006,1,29,"Collins, Mardy",G,New York Knicks,Temple
+2006,1,30,"Freeland, Joel",F,Portland Trail Blazers,Gran Canaria
+2006,2,31,"White, James",G,Portland Trail Blazers,Cincinnati
+2006,2,32,"Novak, Steve",SF,Houston Rockets,Marquette
+2006,2,33,"Jones, Solomon",F,Atlanta Hawks,South Florida
+2006,2,34,"Davis, Paul",C,Los Angeles Clippers,Michigan State
+2006,2,35,"Tucker, P.J.",F,Toronto Raptors,Texas
+2006,2,36,"Smith, Craig",F,Minnesota Timberwolves,Boston College
+2006,2,37,"Jones, Bobby",F,Minnesota Timberwolves,Washington
+2006,2,38,"Perović, Kosta",C,Golden State Warriors,Partizan Belgrade
+2006,2,39,"Noel, David",F,Milwaukee Bucks,North Carolina
+2006,2,40,"Brown, Denham",G,Seattle SuperSonics,Connecticut
+2006,2,41,"Augustine, James",F,Orlando Magic,Illinois
+2006,2,42,"Gibson, Daniel",G,Cleveland Cavaliers,Texas
+2006,2,43,"Vinicius, Marcus",F,New Orleans/Oklahoma City Hornets,Objetivo São Carlos
+2006,2,44,"Eliyahu, Lior",F,Orlando Magic,Hapoel Galil Elyon
+2006,2,45,"Johnson, Alexander",F,Indiana Pacers,Florida State
+2006,2,46,"Brown, Dee",G,Utah Jazz,Illinois
+2006,2,47,"Millsap, Paul",PF,Utah Jazz,Louisiana Tech
+2006,2,48,"Veremeenko, Vladimir",F,Washington Wizards,Dynamo St. Petersburg
+2006,2,49,"Powe, Leon",F,Denver Nuggets,California
+2006,2,50,"Hollins, Ryan",C,Charlotte Bobcats,UCLA
+2006,2,51,"Samb, Cheikh",C,Los Angeles Lakers,WTC Cornellà
+2006,2,52,"Diaz, Guillermo",G,Los Angeles Clippers,Miami (FL)
+2006,2,53,"Halperin, Yotam",G,Seattle SuperSonics,Union Olimpija
+2006,2,54,"Adams, Hassan",G,New Jersey Nets,Arizona
+2006,2,55,"Ugboaja, Ejike",F,Cleveland Cavaliers,Union Bank Lagos
+2006,2,56,"Bavčić, Edin",F,Toronto Raptors,ASA BH Telecom
+2006,2,57,"Mavrokefalidis, Loukas",C,Minnesota Timberwolves,PAOK
+2006,2,58,"Pinnock, J. R.",G,Dallas Mavericks,George Washington
+2006,2,59,"Markota, Damir",F,San Antonio Spurs,Cibona Zagreb
+2006,2,60,"Blalock, Will",G,Detroit Pistons,Iowa State
+2005,1,1,"Bogut, Andrew",C,Milwaukee Bucks,Utah
+2005,1,2,"Williams, Marvin",F,Atlanta Hawks,North Carolina
+2005,1,3,"Williams, Deron",PG,Utah Jazz,Illinois
+2005,1,4,"Paul, Chris",PG,New Orleans Hornets,Wake Forest
+2005,1,5,"Felton, Raymond",G,Charlotte Bobcats,North Carolina
+2005,1,6,"Webster, Martell",G/F,Portland Trail Blazers,Seattle Prep. School
+2005,1,7,"Villanueva, Charlie",F,Toronto Raptors,Connecticut
+2005,1,8,"Frye, Channing",C,New York Knicks,Arizona
+2005,1,9,"Diogu, Ike",F,Golden State Warriors,Arizona State
+2005,1,10,"Bynum, Andrew",C,Los Angeles Lakers,St. Joseph HS
+2005,1,11,"Vázquez, Fran",F/C,Orlando Magic,Unicaja Málaga
+2005,1,12,"Korolev, Yaroslav",F,Los Angeles Clippers,CSKA Moscow
+2005,1,13,"May, Sean",F,Charlotte Bobcats,North Carolina
+2005,1,14,"McCants, Rashad",G,Minnesota Timberwolves,North Carolina
+2005,1,15,"Wright, Antoine",G/F,New Jersey Nets,Texas A&M
+2005,1,16,"Graham, Joey",F,Toronto Raptors,Oklahoma State
+2005,1,17,"Granger, Danny",SF,Indiana Pacers,New Mexico
+2005,1,18,"Green, Gerald",G/F,Boston Celtics,Gulf Shores Academy
+2005,1,19,"Warrick, Hakim",F,Memphis Grizzlies,Syracuse
+2005,1,20,"Hodge, Julius",G,Denver Nuggets,NC State
+2005,1,21,"Robinson, Nate",G,Phoenix Suns,Washington
+2005,1,22,"Jack, Jarrett",G,Denver Nuggets,Georgia Tech
+2005,1,23,"García, Francisco",G/F,Sacramento Kings,Louisville
+2005,1,24,"Head, Luther",G,Houston Rockets,Illinois
+2005,1,25,"Petro, Johan",C,Seattle SuperSonics,Pau-Orthez
+2005,1,26,"Maxiell, Jason",F,Detroit Pistons,Cincinnati
+2005,1,27,"Kleiza, Linas",F,Portland Trail Blazers,Missouri
+2005,1,28,"Mahinmi, Ian",F/C,San Antonio Spurs,Le Havre
+2005,1,29,"Simien, Wayne",F,Miami Heat,Kansas
+2005,1,30,"Lee, David",PF,New York Knicks,Florida
+2005,2,31,"Stoudamire, Salim",G,Atlanta Hawks,Arizona
+2005,2,32,"Ewing, Daniel",G,Los Angeles Clippers,Duke
+2005,2,33,"Bass, Brandon",F,New Orleans Hornets,LSU
+2005,2,34,"Miles, C. J.",G,Utah Jazz,Skyline HS
+2005,2,35,"Sánchez, Ricky",F,Portland Trail Blazers,IMG Academy
+2005,2,36,"İlyasova, Ersan",F,Milwaukee Bucks,Ülkerspor
+2005,2,37,"Turiaf, Ronny",F,Los Angeles Lakers,Gonzaga
+2005,2,38,"Diener, Travis",G,Orlando Magic,Marquette
+2005,2,39,"Wafer, Von",G,Los Angeles Lakers,Florida State
+2005,2,40,"Ellis, Monta",SG,Golden State Warriors,Lanier HS
+2005,2,41,"Ukić, Roko",G,Toronto Raptors,KK Split
+2005,2,42,"Taft, Chris",F,Golden State Warriors,Pittsburgh
+2005,2,43,"Ilić, Mile",C,New Jersey Nets,KK Reflex
+2005,2,44,"Andriuškevičius, Martynas",C,Orlando Magic,Žalgiris Kaunas
+2005,2,45,"Williams, Louis",SG,Philadelphia 76ers,South Gwinnett HS
+2005,2,46,"Lorbek, Erazem",F,Indiana Pacers,Climamio Bologna
+2005,2,47,"Wright, Bracey",G,Minnesota Timberwolves,Indiana
+2005,2,48,"Gelabale, Mickaël",F,Seattle SuperSonics,Real Madrid
+2005,2,49,"Blatche, Andray",F,Washington Wizards,South Kent School
+2005,2,50,"Gomes, Ryan",F,Boston Celtics,Providence
+2005,2,51,"Whaley, Robert",C,Utah Jazz,Walsh
+2005,2,52,"Hervelle, Axel",F,Denver Nuggets,Real Madrid
+2005,2,53,"Greene, Orien",G,Boston Celtics,Louisiana-Lafayette
+2005,2,54,"Thompson, Dijon",G/F,New York Knicks,UCLA
+2005,2,55,"Roberts, Lawrence",F,Seattle SuperSonics,Mississippi State
+2005,2,56,"Johnson, Amir",F,Detroit Pistons,Westchester HS
+2005,2,57,"Gortat, Marcin",F/C,Phoenix Suns,RheinEnergie Köln
+2005,2,58,"Slokar, Uroš",F,Toronto Raptors,Snaidero Udine
+2005,2,59,"Akyol, Cenk",G,Atlanta Hawks,Efes Pilsen
+2005,2,60,"Acker, Alex",G,Detroit Pistons,Pepperdine
+2003,1,1,", LeBron James",SF,Cleveland Cavaliers,St. Vincent–St. Mary HS
+2003,1,2,"Miličić, Darko",C,Detroit Pistons,Hemofarm Vršac
+2003,1,3,"Anthony, Carmelo",SF,Denver Nuggets,Syracuse
+2003,1,4,"Bosh, Chris",F/C,Toronto Raptors,Georgia Tech
+2003,1,5,"Wade, Dwyane",SG,Miami Heat,Marquette
+2003,1,6,"Kaman, Chris",C,Los Angeles Clippers,Central Michigan
+2003,1,7,"Hinrich, Kirk",PG,Chicago Bulls,Kansas
+2003,1,8,"Ford, T. J.",PG,Milwaukee Bucks,Texas
+2003,1,9,"Sweetney, Michael",PF,New York Knicks,Georgetown
+2003,1,10,"Hayes, Jarvis",F/G,Washington Wizards,Georgia
+2003,1,11,"Piétrus, Mickaël",G/F,Golden State Warriors,Pau-Orthez
+2003,1,12,"Collison, Nick",PF,Seattle SuperSonics,Kansas
+2003,1,13,"Banks, Marcus",PG,Memphis Grizzlies,UNLV
+2003,1,14,"Ridnour, Luke",PG,Seattle SuperSonics,Oregon
+2003,1,15,"Gaines, Reece",F/G,Orlando Magic,Louisville
+2003,1,16,"Bell, Troy",PG,Boston Celtics ,Boston College
+2003,1,17,"Čabarkapa, Žarko",SF,Phoenix Suns,Budućnost Podgorica
+2003,1,18,"West, David",PF,New Orleans Hornets,Xavier
+2003,1,19,"Pavlović, Sasha",F/G,Utah Jazz,Budućnost Podgorica
+2003,1,20,"Jones, Dahntay",SG,Boston Celtics ,Duke
+2003,1,21,"Diaw, Boris",PF,Atlanta Hawks,Pau-Orthez
+2003,1,22,"Planinić, Zoran",G/F,New Jersey Nets,Cibona Zagreb
+2003,1,23,"Outlaw, Travis",SF,Portland Trail Blazers,Starkville HS
+2003,1,24,"Cook, Brian",PF,Los Angeles Lakers,Illinois
+2003,1,25,"Delfino, Carlos",SG,Detroit Pistons,Skipper Bologna
+2003,1,26,"Ebi, Ndudi",SF,Minnesota Timberwolves,Westbury Christian HS
+2003,1,27,"Perkins, Kendrick",C,Memphis Grizzlies,Ozen HS 
+2003,1,28,"Barbosa, Leandro",SG,San Antonio Spurs,Bauru Tilibra
+2003,1,29,"Howard, Josh",F/G,Dallas Mavericks,Wake Forest
+2003,2,30,"Lampe, Maciej",PF,New York Knicks ,Complutense University of Madrid
+2003,2,31,"Kapono, Jason",F/G,Cleveland Cavaliers,UCLA
+2003,2,32,"Walton, Luke",SF,Los Angeles Lakers,Arizona
+2003,2,33,"Beasley, Jerome",PF,Miami Heat,North Dakota
+2003,2,34,"Schortsanitis, Sofoklis",C,Los Angeles Clippers,Iraklis BC
+2003,2,35,"Szewczyk, Szymon",PF,Milwaukee Bucks,Braunschweig
+2003,2,36,"Austin, Mario",PF,Chicago Bulls,Mississippi State
+2003,2,37,"Hansen, Travis",SG,Atlanta Hawks,BYU
+2003,2,38,"Blake, Steve",PG,Washington Wizards,Maryland
+2003,2,39,"Vraneš, Slavko",C,New York Knicks,Budućnost Podgorica
+2003,2,40,"Zimmerman, Derrick",PG,Golden State Warriors,Mississippi State
+2003,2,41,"Green, Willie",SG,Seattle SuperSonics ,Detroit
+2003,2,42,"Pachulia, Zaza",PF,Orlando Magic,Ülkerspor
+2003,2,43,"Bogans, Keith",SG,Milwaukee Bucks,Kentucky
+2003,2,44,"Badiane, Malick",PF,Houston Rockets,Langen
+2003,2,45,"Bonner, Matt",F,Chicago Bulls,Florida
+2003,2,46,"Bečirović, Sani",SG,Denver Nuggets,Virtus Bologna
+2003,2,47,"Williams, Mo",PG,Utah Jazz,Alabama
+2003,2,48,"Lang, James",C,New Orleans Hornets,Central Park Christian HS 
+2003,2,49,"Jones, James",SF,Indiana Pacers,Miami (Florida)
+2003,2,50,"Morlende, Paccelis",PG,Philadelphia 76ers,Dijon
+2003,2,51,"Korver, Kyle",SG,New Jersey Nets,Creighton
+2003,2,52,"van de Hare, Remon",C,Toronto Raptors,FC Barcelona
+2003,2,53,"Smith, Tommy",PF,Chicago Bulls,Arizona State
+2003,2,54,"Sinanović, Nedžad",C,Portland Trail Blazers,Brotnjo
+2003,2,55,"Rickert, Rick",PF,Minnesota Timberwolves,Minnesota
+2003,2,56,"Hunter, Brandon",PF,Boston Celtics,Ohio
+2003,2,57,"Yuyang, Xue",C,Dallas Mavericks,Hong Kong Flying Dragons
+2003,2,58,"Glyniadakis, Andreas",C,Detroit Pistons,AEK
+2000,1,1,"Martin, Kenyon",PF,New Jersey Nets,Cincinnati
+2000,1,2,"Swift, Stromile",PF/C,Vancouver Grizzlies,LSU
+2000,1,3,"Miles, Darius",SF/SG,Los Angeles Clippers,East St. Louis HS
+2000,1,4,"Fizer, Marcus",PF,Chicago Bulls,Iowa State
+2000,1,5,"Miller, Mike",SF/SG,Orlando Magic,Florida
+2000,1,6,"Johnson, DerMarr",SG/SF,Atlanta Hawks,Cincinnati
+2000,1,7,"Mihm, Chris",C/PF,Chicago Bulls,Texas
+2000,1,8,"Crawford, Jamal",SG,Cleveland Cavaliers,Michigan
+2000,1,9,"Przybilla, Joel",C,Houston Rockets,Minnesota
+2000,1,10,"Dooling, Keyon",SG,Orlando Magic,Missouri
+2000,1,11,Moiso,PF,Boston Celtics,UCLA
+2000,1,12,"Thomas, Etan",PF/C,Dallas Mavericks,Syracuse
+2000,1,13,"Alexander, Courtney",SG,Orlando Magic,Fresno State
+2000,1,14,"Cleaves, Mateen",PG,Detroit Pistons,Michigan State
+2000,1,15,"Collier, Jason",C,Milwaukee Bucks,Georgia Tech
+2000,1,16,Turkoglu,SF/PF,Sacramento Kings,Efes Pilsen
+2000,1,17,"Mason, Desmond",SF/SG,Seattle SuperSonics,Oklahoma State
+2000,1,18,"Richardson, Quentin",SF/SG,Los Angeles Clippers,DePaul
+2000,1,19,"Magloire, Jamaal",PF/C,Charlotte Hornets,Kentucky
+2000,1,20,"Claxton, Speedy",PG,Philadelphia 76ers,Hofstra
+2000,1,21,"Peterson, Morris",SF/SG,Toronto Raptors,Michigan State
+2000,1,22,"Harvey, Donnell",SF,New York Knicks,Florida
+2000,1,23,"Stevenson, DeShawn",SG,Utah Jazz,Washington Union HS
+2000,1,24,"Bagarić, Dalibor",C,Chicago Bulls,Benston Zagreb
+2000,1,25,"Tsakalidis, Iakovos ""Jake""",C,Phoenix Suns,AEK
+2000,1,26,"N'Diaye, Mamadou",C,Denver Nuggets,Auburn
+2000,1,27,"Brezec, Primož",C,Indiana Pacers,Union Olimpija
+2000,1,28,"Barkley, Erick",PG,Portland Trail Blazers,St. John's
+2000,1,29,"Madsen, Mark",PF,Los Angeles Lakers,Stanford
+2000,2,30,"Jarić, Marko",G,Los Angeles Clippers,Paf Bologna
+2000,2,31,"Langhi, Dan",PF,Dallas Mavericks,Vanderbilt
+2000,2,32,"Guyton, A.J.",PG,Chicago Bulls,Indiana
+2000,2,33,"Voskuhl, Jake",C,Chicago Bulls,Connecticut
+2000,2,34,"El-Amin, Khalid",PG,Chicago Bulls,Connecticut
+2000,2,35,"Smith, Mike",F,Washington Wizards,Louisiana-Monroe
+2000,2,36,"Samake, Soumaila",C,New Jersey Nets,Cincinnati Stuff
+2000,2,37,"House, Eddie",SG,Miami Heat,Arizona State
+2000,2,38,"Nájera, Eduardo",PF,Houston Rockets,Oklahoma
+2000,2,39,"Postell, Lavor",SG,New York Knicks,St. John's
+2000,2,40,Mottola,SF/PF,Atlanta Hawks,Utah
+2000,2,41,"Carrawell, Chris",SG,San Antonio Spurs,Duke
+2000,2,42,"Oyedeji, Olumide",PF,Seattle SuperSonics,Würzburg
+2000,2,43,"Redd, Michael",SG,Milwaukee Bucks,Ohio State
+2000,2,44,"Cardinal, Brian",PF,Detroit Pistons,Purdue
+2000,2,45,"Smith, Jabari",C,Sacramento Kings,LSU
+2000,2,46,"Hulett, DeeAndre",G,Toronto Raptors,COS
+2000,2,47,"Sesar, Josip",G,Seattle SuperSonics,Cibona Zagreb
+2000,2,48,"Karcher, Mark",PG,Philadelphia 76ers,Temple
+2000,2,49,"Hart, Jason",PG,Milwaukee Bucks,Syracuse
+2000,2,50,"Dickens, Kaniel",F,Utah Jazz,Idaho
+2000,2,51,"Rakočević, Igor",G,Minnesota Timberwolves,Red Star Belgrade
+2000,2,52,"Brown, Ernest",C,Miami Heat,Indian Hills CC
+2000,2,53,"McClintock, Dan",C,Denver Nuggets,Northern Arizona
+2000,2,54,"Hightower, Cory",G,San Antonio Spurs,Indian Hills CC
+2000,2,55,"Porter, Chris",F,Golden State Warriors,Auburn
+2000,2,56,"Walls, Jaquay",G,Indiana Pacers,Colorado
+2000,2,57,"Penn, Scoonie",G,Atlanta Hawks,Ohio State
+2000,2,58,"Mickeal, Pete",F,Dallas Mavericks,Cincinnati
+1999,1,1,"Brand, Elton",PF,Chicago Bulls,Duke
+1999,1,2,"Francis, Steve",G,Vancouver Grizzlies,Maryland
+1999,1,3,"Davis, Baron",PG,Charlotte Hornets,UCLA
+1999,1,4,"Odom, Lamar",F,Los Angeles Clippers,Rhode Island
+1999,1,5,"Bender, Jonathan",F,Toronto Raptors,Picayune Memorial HS
+1999,1,6,"Szczerbiak, Wally",SF,Minnesota Timberwolves,Miami (OH)
+1999,1,7,"Hamilton, Richard",SG,Washington Wizards,Connecticut
+1999,1,8,"Miller, Andre",PG,Cleveland Cavaliers,Utah
+1999,1,9,"Marion, Shawn",F,Phoenix Suns,UNLV
+1999,1,10,"Terry, Jason",G,Atlanta Hawks,Arizona
+1999,1,11,"Langdon, Trajan",SG,Cleveland Cavaliers,Duke
+1999,1,12,"Radojević, Aleksandar",C,Toronto Raptors,Barton County CC
+1999,1,13,"Maggette, Corey",SG/SF,Seattle SuperSonics,Duke
+1999,1,14,"Avery, William",PG,Minnesota Timberwolves,Duke
+1999,1,15,"Weis, Frédéric",C,New York Knicks,Limoges
+1999,1,16,"Artest, Ron",SF,Chicago Bulls,St. John's
+1999,1,17,"Bowdler, Cal",PF,Atlanta Hawks,Old Dominion
+1999,1,18,"Posey, James",SG/SF,Denver Nuggets,Xavier
+1999,1,19,"Lewis, Quincy",SF,Utah Jazz,Minnesota
+1999,1,20,"Glover, Dion",SG,Atlanta Hawks,Georgia Tech
+1999,1,21,"Foster, Jeff",PF,Golden State Warriors,Southwest Texas State
+1999,1,22,"Thomas, Kenny",PF,Houston Rockets,New Mexico
+1999,1,23,"George, Devean",SF,Los Angeles Lakers,Augsburg
+1999,1,24,"Kirilenko, Andrei",SF,Utah Jazz,CSKA Moscow
+1999,1,25,"James, Tim",SF,Miami Heat,Miami
+1999,1,26,"Cummings, Vonteego",PG,Indiana Pacers,Pittsburgh
+1999,1,27,"Jones, Jumaine",SF,Atlanta Hawks,Georgia
+1999,1,28,"Padgett, Scott",PF,Utah Jazz,Kentucky
+1999,1,29,"Smith, Leon",PF,San Antonio Spurs,King College Prep HS
+1999,2,30,"Celestand, John",PG,Los Angeles Lakers,Villanova
+1999,2,31,"Hill, Rico",F,Los Angeles Clippers,Illinois State
+1999,2,32,"Ruffin, Michael",PF,Chicago Bulls,Tulsa
+1999,2,33,"Herren, Chris",G,Denver Nuggets,Fresno State
+1999,2,34,"Eschmeyer, Evan",C,New Jersey Nets,Northwestern
+1999,2,35,"Booth, Calvin",C,Washington Wizards,Penn State
+1999,2,36,"Wang Zhizhi,",C,Dallas Mavericks,Bayi Rockets
+1999,2,37,"Ekezie, Obinna",C,Vancouver Grizzlies,Maryland
+1999,2,38,"Profit, Laron",SG/SF,Orlando Magic,Maryland
+1999,2,39,"Bramlett, A. J.",C,Cleveland Cavaliers,Arizona
+1999,2,40,"Giriček, Gordan",G/F,Dallas Mavericks,CSKA Moscow
+1999,2,41,"Elson, Francisco",C,Denver Nuggets,California
+1999,2,42,"Bullock, Louis",G,Minnesota Timberwolves,Michigan
+1999,2,43,"Nailon, Lee",SF,Charlotte Hornets,TCU
+1999,2,44,"Washington, Tyrone",C,Houston Rockets,Mississippi State
+1999,2,45,"Robertson, Ryan",G,Sacramento Kings,Kansas
+1999,2,46,"Koch, J. R.",F,New York Knicks,Iowa
+1999,2,47,Macculloch,C,Philadelphia 76ers,Washington
+1999,2,48,"Young, Galen",G,Milwaukee Bucks,Charlotte
+1999,2,49,"Ketner, Lari",C,Chicago Bulls,UMass
+1999,2,50,"Hamilton, Venson",C,Houston Rockets,Nebraska
+1999,2,51,"Smith, Antwain",F,Vancouver Grizzlies,Saint Paul's
+1999,2,52,"Bergersen, Roberto",G,Atlanta Hawks,Boise State
+1999,2,53,"Buford, Rodney",SG,Miami Heat,Creighton
+1999,2,54,"Levett, Melvin",SG,Detroit Pistons,Cincinnati
+1999,2,55,"Clack, Kris",G,Boston Celtics,Texas
+1999,2,56,"Young, Tim",C,Golden State Warriors,Stanford
+1999,2,57,"Ginóbili, Manu",SG,San Antonio Spurs,Viola Reggio Calabria
+1999,2,58,"Lucas, Eddie",G,Utah Jazz,Virginia Tech
+1998,1,1,"Olowokandi, Michael",C,Los Angeles Clippers,Pacific
+1998,1,2,"Bibby, Mike",PG,Vancouver Grizzlies,Arizona
+1998,1,3,"LaFrentz, Raef",C/F,Denver Nuggets,Kansas
+1998,1,4,"Jamison, Antawn",F,Toronto Raptors,North Carolina
+1998,1,5,"Carter, Vince",G/F,Golden State Warriors,North Carolina
+1998,1,6,"Traylor, Robert",F/C,Dallas Mavericks,Michigan
+1998,1,7,"Williams, Jason",PG,Sacramento Kings,Florida
+1998,1,8,"Hughes, Larry",SG,Philadelphia 76ers,Saint Louis
+1998,1,9,"Nowitzki, Dirk",PF,Milwaukee Bucks,DJK Würzburg
+1998,1,10,"Pierce, Paul",G/F,Boston Celtics,Kansas
+1998,1,11,"Wells, Bonzi",G/F,Detroit Pistons,Ball State
+1998,1,12,"Doleac, Michael",C,Orlando Magic,Utah
+1998,1,13,"Clark, Keon",F/C,Orlando Magic,UNLV
+1998,1,14,"Dickerson, Michael",SG,Houston Rockets,Arizona
+1998,1,15,"Harpring, Matt",F/G,Orlando Magic,Georgia Tech
+1998,1,16,"Drew, Bryce",PG,Houston Rockets,Valparaíso
+1998,1,17,"Nesterovič, Radoslav",C,Minnesota Timberwolves,Kinder Bologna
+1998,1,18,"Türkcan, Mirsad",PF,Houston Rockets,Efes Pilsen
+1998,1,19,"Garrity, Pat",PF,Milwaukee Bucks,Notre Dame
+1998,1,20,"McLeod, Roshown",SF,Atlanta Hawks,Duke
+1998,1,21,"Davis, Ricky",G/F,Charlotte Hornets,Iowa
+1998,1,22,"Skinner, Brian",F/C,Los Angeles Clippers,Baylor
+1998,1,23,"Lue, Tyronn",PG,Denver Nuggets,Nebraska
+1998,1,24,"López, Felipe",SG,San Antonio Spurs,St. John's
+1998,1,25,"Harrington, Al",F,Indiana Pacers,St. Patrick's High School
+1998,1,26,"Jacobson, Sam",SG,Los Angeles Lakers,Minnesota
+1998,1,27,"Stepania, Vladimir",C,Seattle SuperSonics,Olimpija Ljubljana
+1998,1,28,"Benjamin, Corey",SG,Chicago Bulls,Oregon State
+1998,1,29,"Mohammed, Nazr",C/F,Utah Jazz,Kentucky
+1998,2,30,"Sesay, Ansu",SF,Dallas Mavericks,Mississippi
+1998,2,31,"Patterson, Ruben",SF,Los Angeles Lakers,Cincinnati
+1998,2,32,"Lewis, Rashard",PF,Seattle SuperSonics,Alief Elsik HS
+1998,2,33,"McCoy, Jelani",F/C,Seattle SuperSonics,UCLA
+1998,2,34,"Williams, Shammond",PG,Chicago Bulls,North Carolina
+1998,2,35,"Šundov, Bruno",C,Dallas Mavericks,Split
+1998,2,36,"James, Jerome",C,Sacramento Kings,Florida A&M
+1998,2,37,"Shaw, Casey",C,Philadelphia 76ers,Toledo
+1998,2,38,"Johnson, DeMarco",PF,New York Knicks,Charlotte
+1998,2,39,"Alston, Rafer",PG,Milwaukee Bucks,Fresno State
+1998,2,40,"Young, Korleone",SF,Detroit Pistons,Hargrave Military Academy
+1998,2,41,"Mobley, Cuttino",SG,Houston Rockets,Rhode Island
+1998,2,42,"Simon, Miles",SG,Orlando Magic,Arizona
+1998,2,43,"White, Jahidi",F/C,Washington Wizards,Georgetown
+1998,2,44,"Marks, Sean",PF,New York Knicks,California
+1998,2,45,"Bailey, Toby",SG,Los Angeles Lakers,UCLA
+1998,2,46,"Patterson, Andrae",SF,Minnesota Timberwolves,Indiana
+1998,2,47,"Wheeler, Tyson",PG,Toronto Raptors,Rhode Island
+1998,2,48,"Stack, Ryan",C,Cleveland Cavaliers,South Carolina
+1998,2,49,"Carr, Cory",SG,Atlanta Hawks,Texas Tech
+1998,2,50,"Betts, Andrew",C,Charlotte Hornets,Long Beach State
+1998,2,51,"Brewer, Corey",PG,Miami Heat,Oklahoma
+1998,2,52,"Dial, Derrick",SG,San Antonio Spurs,Eastern Michigan
+1998,2,53,"Buckner, Greg",SG,Dallas Mavericks,Clemson
+1998,2,54,"Fowlkes, Tremaine",SF,Denver Nuggets,Fresno State
+1998,2,55,"Bowen, Ryan",SF,Denver Nuggets,Iowa
+1998,2,56,"Henderson, J. R.",SF,Vancouver Grizzlies,UCLA
+1998,2,57,"Braggs, Torraye",PF,Utah Jazz,Xavier
+1998,2,58,"Baston, Maceo",PF,Chicago Bulls,Michigan
+1997,1,1,Tim Duncan,PF/C,San Antonio Spurs,Wake Forest
+1997,1,2,"Van Horn, Keith",PF,Philadelphia 76ers,Utah
+1997,1,3,"Billups, Chauncey",PG,Boston Celtics,Colorado
+1997,1,4,"Daniels, Antonio",PG,Vancouver Grizzlies,Bowling Green
+1997,1,5,"Battie, Tony",C/F,Denver Nuggets,Texas Tech
+1997,1,6,"Mercer, Ron",SF,Boston Celtics,Kentucky
+1997,1,7,"Thomas, Tim",SF,New Jersey Nets,Villanova
+1997,1,8,"Foyle, Adonal",C,Golden State Warriors,Colgate
+1997,1,9,"McGrady, Tracy",SG/SF,Toronto Raptors,Mt. Zion Christian Academy
+1997,1,10,"Fortson, Danny",PF,Milwaukee Bucks,Cincinnati
+1997,1,11,"Abdul-Wahad, Tariq",SF,Sacramento Kings,San Jose State
+1997,1,12,"Croshere, Austin",PF,Indiana Pacers,Providence
+1997,1,13,"Anderson, Derek",SG,Cleveland Cavaliers,Kentucky
+1997,1,14,"Taylor, Maurice",PF,Los Angeles Clippers,Michigan
+1997,1,15,"Cato, Kelvin",C,Dallas Mavericks,Iowa State
+1997,1,16,"Knight, Brevin",PG,Cleveland Cavaliers,Stanford
+1997,1,17,"Taylor, Johnny",PF,Orlando Magic,Chattanooga
+1997,1,18,"Anstey, Chris",PF,Portland Trail Blazers,SE Melbourne Magic
+1997,1,19,"Pollard, Scot",C,Detroit Pistons,Kansas
+1997,1,20,"Grant, Paul",C,Minnesota Timberwolves,Wisconsin
+1997,1,21,"Parker, Anthony",SG,New Jersey Nets,Bradley
+1997,1,22,"Gray, Ed",PG/SG,Atlanta Hawks,California
+1997,1,23,"Jackson, Bobby",PG,Seattle SuperSonics,Minnesota
+1997,1,24,"Rhodes, Rodrick",SG,Houston Rockets,USC
+1997,1,25,"Thomas, John",C,New York Knicks,Minnesota
+1997,1,26,"Smith, Charles",SG,Miami Heat,New Mexico
+1997,1,27,"Vaughn, Jacque",PG,Utah Jazz,Kansas
+1997,1,28,"Booth, Keith",SF,Chicago Bulls,Maryland
+1997,2,29,"Zwikker, Serge",C,Houston Rockets,North Carolina
+1997,2,30,"Sanford, Mark",SF/PF,Miami Heat,Washington
+1997,2,31,"O'Bannon, Charles",PG,Detroit Pistons,UCLA
+1997,2,32,"Cotton, James",SF,Denver Nuggets,Long Beach State
+1997,2,33,"Milič, Marko",PG/SG,Philadelphia 76ers,Smelt Olimpija
+1997,2,34,"Wells, Bubba",SF/PF,Dallas Mavericks,Austin Peay
+1997,2,35,"Stewart, Kebu",SF/PF,Philadelphia 76ers,Cal State Bakersfield
+1997,2,36,"Collins, James",PG/SG,Philadelphia 76ers,Florida State
+1997,2,37,"Jackson, Marc",SF/PF,Golden State Warriors,Temple
+1997,2,38,"Honeycutt, Jerald",PF,Milwaukee Bucks,Tulane
+1997,2,39,"Johnson, Anthony",PG/SG,Sacramento Kings,College of Charleston
+1997,2,40,"Elisma, Ed",SF,Seattle SuperSonics,Georgia Tech
+1997,2,41,"Lawson, Jason",C,Denver Nuggets,Villanova
+1997,2,42,"Jackson, Stephen",SG,Phoenix Suns,Butler CC
+1997,2,43,"Malone, Gordon",SF,Minnesota Timberwolves,West Virginia
+1997,2,44,"Henderson, Cedric",PF,Cleveland Cavaliers,Memphis
+1997,2,45,"Shammgod, God",PG,Washington Bullets,Providence
+1997,2,46,"Washington, Eric",SG,Orlando Magic,Alabama
+1997,2,47,"Williams, Alvin",PG,Portland Trailblazers,Villanova
+1997,2,48,"Drobnjak, Predrag",C,Washington Bullets,KK Partizan
+1997,2,49,"Digbeu, Alain",SG,Atlanta Hawks,ASVEL Lyon-Villeurbanne
+1997,2,50,"Crawford, Chris",SF,Atlanta Hawks,Marquette
+1997,2,51,"Wheat, DeJuan",PG,Los Angeles Lakers,Louisville
+1997,2,52,"Bruton, C.J.",PG/SG,Vancouver Grizzlies,Indian Hills CC
+1997,2,53,"Rogers, Paul",C,Los Angeles Lakers,Gonzaga
+1997,2,54,"Blount, Mark",C,Seattle SuperSonics,Pittsburgh
+1997,2,55,"Pepper, Ben",C,Boston Celtics,Newcastle Falcons
+1997,2,56,"Erdmann, Nate",SG,Utah Jazz,Oklahoma
+1997,2,57,"Dueñas, Roberto",C,Chicago Bulls,FC Barcelona
+1996,1,1,"Iverson, Allen",G,Philadelphia 76ers,Georgetown
+1996,1,2,"Camby, Marcus",C,Toronto Raptors,Massachusetts
+1996,1,3,"Abdur-Rahim, Shareef",F,Vancouver Grizzlies,California
+1996,1,4,"Marbury, Stephon",G,Milwaukee Bucks,Georgia Tech
+1996,1,5,"Allen, Ray",G,Minnesota Timberwolves,Connecticut
+1996,1,6,"Walker, Antoine",F,Boston Celtics,Kentucky
+1996,1,7,"Wright, Lorenzen",C,Los Angeles Clippers,Memphis
+1996,1,8,"Kittles, Kerry",G,New Jersey Nets,Villanova
+1996,1,9,"Walker, Samaki",F,Dallas Mavericks,Louisville
+1996,1,10,"Dampier, Erick",C,Indiana Pacers,Mississippi State
+1996,1,11,"Fuller, Todd",C,Golden State Warriors,NC State
+1996,1,12,"Potapenko, Vitaly",C,Cleveland Cavaliers,Wright State
+1996,1,13,"Bryant, Kobe",G,Charlotte Hornets,Lower Merion HS
+1996,1,14,"Stojaković, Peja",F,Sacramento Kings,PAOK
+1996,1,15,"Nash, Steve",G,Phoenix Suns,Santa Clara
+1996,1,16,"Delk, Tony",G,Charlotte Hornets,Kentucky
+1996,1,17,"O'Neal, Jermaine",F/C,Portland Trail Blazers,Eau Claire HS 
+1996,1,18,"Wallace, John",F,New York Knicks,Syracuse
+1996,1,19,"McCarty, Walter",F,New York Knicks,Kentucky
+1996,1,20,"Ilgauskas, Žydrūnas",C,Cleveland Cavaliers,Atletas Kaunas
+1996,1,21,"Jones, Dontae",F,New York Knicks,Mississippi State
+1996,1,22,"Rogers, Roy",F,Vancouver Grizzlies,Alabama
+1996,1,23,"Rentzias, Efthimios",C,Denver Nuggets,PAOK
+1996,1,24,"Fisher, Derek",G,Los Angeles Lakers,Arkansas-Little Rock
+1996,1,25,"Müürsepp, Martin",F,Utah Jazz,Tallinna Kalev
+1996,1,26,"Williams, Jerome",F,Detroit Pistons,Georgetown
+1996,1,27,"Evans, Brian",F,Orlando Magic,Indiana
+1996,1,28,"Lauderdale, Priest",C,Atlanta Hawks,Peristeri
+1996,1,29,"Knight, Travis",C,Chicago Bulls,Connecticut
+1996,2,30,"Harrington, Othella",F/C,Houston Rockets,Georgetown
+1996,2,31,"Hendrickson, Mark",G,Philadelphia 76ers,Washington State
+1996,2,32,"Minor, Ryan",G,Philadelphia 76ers,Oklahoma
+1996,2,33,"Norris, Moochie",G,Milwaukee Bucks,West Florida
+1996,2,34,"Harvey, Shawn",G,Dallas Mavericks,West Virginia State
+1996,2,35,"Blair, Joseph",C,Seattle SuperSonics,Arizona
+1996,2,36,"Sheffer, Doron",G,Los Angeles Clippers,Connecticut
+1996,2,37,"McInnis, Jeff",G,Denver Nuggets,North Carolina
+1996,2,38,"Hamer, Steve",C,Boston Celtics,Tennessee
+1996,2,39,"Millard, Russ",F,Phoenix Suns,Iowa
+1996,2,40,"Mann, Marcus",F,Golden State Warriors,Mississippi Valley State
+1996,2,41,"Sasser, Jason",F,Sacramento Kings,Texas Tech
+1996,2,42,"Livingston, Randy",G,Houston Rockets,LSU
+1996,2,43,"Davis, Ben",F,Phoenix Suns,Arizona
+1996,2,44,"Rose, Malik",F,Charlotte Hornets,Drexel
+1996,2,45,"Vogel, Joe",C,Seattle SuperSonics,Colorado State
+1996,2,46,"Brown, Marcus",G,Portland Trail Blazers,Murray State
+1996,2,47,"Riley, Ron",G/F,Seattle SuperSonics,Arizona State
+1996,2,48,"Feick, Jamie",F,Philadelphia 76ers,Michigan State
+1996,2,49,"McCaskill, Amal",C,Orlando Magic,Marquette
+1996,2,50,"Bell, Terrell",C,Houston Rockets,Georgia
+1996,2,51,"Robinson, Chris",G,Vancouver Grizzlies,Western Kentucky
+1996,2,52,"Pope, Mark",F,Indiana Pacers,Kentucky
+1996,2,53,"Nordgaard, Jeff",F,Milwaukee Bucks,Wisconsin–Green Bay
+1996,2,54,"Anderson, Shandon",F,Utah Jazz,Georgia
+1996,2,55,"Henderson, Ronnie",G,Washington Bullets,LSU
+1996,2,56,"Geary, Reggie",G,Cleveland Cavaliers,Arizona
+1996,2,57,"Barry, Drew",G,Seattle SuperSonics,Georgia Tech
+1996,2,58,"Robinson, Darnell",F,Dallas Mavericks,Arkansas
+1995,1,1,"Smith, Joe",PF,Golden State Warriors,Maryland
+1995,1,2,"McDyess, Antonio",PF,Los Angeles Clippers,Alabama
+1995,1,3,"Stackhouse, Jerry",SG,Philadelphia 76ers,North Carolina
+1995,1,4,"Wallace, Rasheed",PF,Washington Bullets,North Carolina
+1995,1,5,"Garnett, Kevin",PF,Minnesota Timberwolves,Farragut Academy HS
+1995,1,6,"Reeves, Bryant",C,Vancouver Grizzlies,Oklahoma State
+1995,1,7,"Stoudamire, Damon",PG,Toronto Raptors,Arizona
+1995,1,8,"Respert, Shawn",SG,Portland Trail Blazers,Michigan State
+1995,1,9,"O'Bannon, Ed",SF,New Jersey Nets,UCLA
+1995,1,10,"Thomas, Kurt",PF/C,Miami Heat,TCU
+1995,1,11,"Trent, Gary",PF,Milwaukee Bucks,Ohio
+1995,1,12,"Parks, Cherokee",C,Dallas Mavericks,Duke
+1995,1,13,"Williamson, Corliss",PF,Sacramento Kings,Arkansas
+1995,1,14,"Williams, Eric",SF,Boston Celtics,Providence
+1995,1,15,"Barry, Brent",SG,Denver Nuggets,Oregon State
+1995,1,16,"Henderson, Alan",PF,Atlanta Hawks,Indiana
+1995,1,17,"Sura, Bob",SG,Cleveland Cavaliers,Florida State
+1995,1,18,"Ratliff, Theo",PF/C,Detroit Pistons,Wyoming
+1995,1,19,"Childress, Randolph",PG,Detroit Pistons,Wake Forest
+1995,1,20,"Caffey, Jason",PF,Chicago Bulls,Alabama
+1995,1,21,"Finley, Michael",SF/SG,Phoenix Suns,Wisconsin
+1995,1,22,"Zidek, George",C,Charlotte Hornets,UCLA
+1995,1,23,"Best, Travis",PG,Indiana Pacers,Georgia Tech
+1995,1,24,"Meyer, Loren",PF,Dallas Mavericks,Iowa State
+1995,1,25,"Vaughn, David",PF/C,Orlando Magic,Memphis
+1995,1,26,"Ford, Sherell",PF,Seattle SuperSonics,UIC
+1995,1,27,"Bennett, Mario",PF,Phoenix Suns,Arizona State
+1995,1,28,"Ostertag, Greg",C,Utah Jazz,Kansas
+1995,1,29,"Alexander, Cory",PG,San Antonio Spurs,Virginia
+1995,2,30,"Roe, Lou",F,Detroit Pistons,UMass
+1995,2,31,"Tarlać, Dragan",C,Chicago Bulls,Olympiakos
+1995,2,32,"Rencher, Terrence",G,Washington Bullets,Texas
+1995,2,33,"Burrough, Junior",F,Boston Celtics,Virginia
+1995,2,34,"DeClercq, Andrew",PF/C,Golden State Warriors,Florida
+1995,2,35,"King, Jimmy",G,Toronto Raptors,Michigan
+1995,2,36,"Moten, Lawrence",G,Vancouver Grizzlies,Syracuse
+1995,2,37,"King, Frankie",G,Los Angeles Lakers,Western Carolina
+1995,2,38,"Griffith, Rashard",C,Milwaukee Bucks,Wisconsin
+1995,2,39,"Marshall, Donny",F,Cleveland Cavaliers,Connecticut
+1995,2,40,"Whitfield, Dwayne",F,Golden State Warriors,Jackson State
+1995,2,41,"Meek, Erik",C,Houston Rockets,Duke
+1995,2,42,"Boyce, Donnie",G,Atlanta Hawks,Colorado
+1995,2,43,"Snow, Eric",PG,Milwaukee Bucks,Michigan State
+1995,2,44,"Pelle, Anthony",C,Denver Nuggets,Fresno State
+1995,2,45,"Brown, Troy",F/C,Atlanta Hawks,Providence
+1995,2,46,"Banks, George",F,Miami Heat,UTEP
+1995,2,47,"Edney, Tyus",PG,Sacramento Kings,UCLA
+1995,2,48,"Davis, Mark",G/F,Minnesota Timberwolves,Texas Tech
+1995,2,49,"Allen, Jerome",G,Minnesota Timberwolves,Pennsylvania
+1995,2,50,"Lewis, Martin",F,Golden State Warriors,Seward County
+1995,2,51,"Bodiroga, Dejan",SF,Sacramento Kings,Olimpia (Stefanel) Milano
+1995,2,52,"Hoiberg, Fred",SG,Indiana Pacers,Iowa State
+1995,2,53,"Popa, Constantin",C,Los Angeles Clippers,Miami (Florida)
+1995,2,54,"Zukauskas, Eurelijus",C,Seattle SuperSonics,Neptūnas Klaipėda
+1995,2,55,"McDonald, Michael",C,Golden State Warriors,New Orleans
+1995,2,56,"Carr, Chris",G,Phoenix Suns,Southern Illinois
+1995,2,57,"Martin, Cuonzo",G/F,Atlanta Hawks,Purdue
+1995,2,58,"Reid, Don",F,Detroit Pistons,Georgetown
+1994,1,1,"Robinson, Glenn",SF,Milwaukee Bucks,Purdue
+1994,1,2,"Kidd, Jason",PG,Dallas Mavericks,California
+1994,1,3,"Hill, Grant",SF,Detroit Pistons,Duke
+1994,1,4,"Marshall, Donyell",SF,Minnesota Timberwolves,Connecticut
+1994,1,5,"Howard, Juwan",PF,Washington Bullets,Michigan
+1994,1,6,"Wright, Sharone",PF/C,Philadelphia 76ers,Clemson
+1994,1,7,"Murray, Lamond",SF,Los Angeles Clippers,California
+1994,1,8,"Grant, Brian",PF,Sacramento Kings,Xavier
+1994,1,9,"Montross, Eric",C,Boston Celtics,North Carolina
+1994,1,10,"Jones, Eddie",SG,Los Angeles Lakers,Temple
+1994,1,11,"Rogers, Carlos",SF,Seattle SuperSonics,Tennessee State
+1994,1,12,"Reeves, Khalid",PG,Miami Heat,Arizona
+1994,1,13,"Rose, Jalen",G/F,Denver Nuggets,Michigan
+1994,1,14,"Dare, Yinka",C,New Jersey Nets,George Washington
+1994,1,15,"Piatkowski, Eric",SG,Indiana Pacers,Nebraska
+1994,1,16,"Rozier, Clifford",PF,Golden State Warriors,Louisville
+1994,1,17,"McKie, Aaron",SG,Portland Trail Blazers,Temple
+1994,1,18,"Mobley, Eric",PF,Milwaukee Bucks,Pittsburgh
+1994,1,19,"Dumas, Tony",SG,Dallas Mavericks,UMKC
+1994,1,20,"Tyler, B.J.",PG,Philadelphia 76ers,Texas
+1994,1,21,"Simpkins, Dickey",PF,Chicago Bulls,Providence
+1994,1,22,"Curley, Bill",PF,San Antonio Spurs,Boston College
+1994,1,23,"Person, Wesley",SG,Phoenix Suns,Auburn
+1994,1,24,"Williams, Monty",SF,New York Knicks,Notre Dame
+1994,1,25,"Minor, Greg",SG,Los Angeles Clippers,Louisville
+1994,1,26,"Ward, Charlie",PG,New York Knicks,Florida State
+1994,1,27,"Thompson, Brooks",PG,Orlando Magic,Oklahoma State
+1994,2,28,"Thomas, Deon",F/C,Dallas Mavericks,Illinois
+1994,2,29,"Lang, Antonio",F/G,Phoenix Suns,Duke
+1994,2,30,"Eisley, Howard",PG,Minnesota Timberwolves,Boston College
+1994,2,31,"Dent, Rodney",F/C,Orlando Magic,Kentucky
+1994,2,32,"McIlvaine, Jim",C,Washington Bullets,Marquette
+1994,2,33,"Alston, Derrick",F,Philadelphia 76ers,Duquesne
+1994,2,34,"Nickerson, Gaylon",G,Atlanta Hawks,Northwestern Oklahoma State
+1994,2,35,"Smith, Michael",F,Sacramento Kings,Providence
+1994,2,36,"Fetisov, Andrei",F,Boston Celtics,Forum Valladolid
+1994,2,37,"Wingfield, Dontonio",F,Seattle SuperSonics,Cincinnati
+1994,2,38,"Hancock, Darrin",G/F,Charlotte Hornets,Kansas
+1994,2,39,"Miller, Anthony",F,Golden State Warriors,Michigan State
+1994,2,40,"Webster, Jeff",F,Miami Heat,Oklahoma
+1994,2,41,"Njoku, William",PF,Indiana Pacers,St. Mary's (Canada)
+1994,2,42,"Collier, Gary",SF,Cleveland Cavaliers,Tulsa
+1994,2,43,"Scott, Shawnelle",C,Portland Trail Blazers,St. John's
+1994,2,44,"Bailey, Damon",G,Indiana Pacers,Indiana
+1994,2,45,"Morton, Dwayne",F,Golden State Warriors,Louisville
+1994,2,46,"Lenard, Voshon",SG,Milwaukee Bucks,Minnesota
+1994,2,47,"Watson, Jamie",F,Utah Jazz,South Carolina
+1994,2,48,"Crudup, Jevon",F/C,Detroit Pistons,Missouri
+1994,2,49,"Bruton, Kris",SF,Chicago Bulls,Benedict
+1994,2,50,"Claxton, Charles",C,Phoenix Suns,Georgia
+1994,2,51,"Funderburke, Lawrence",PF,Sacramento Kings,Ohio State
+1994,2,52,"Goldwire, Anthony",PG,Phoenix Suns,Houston
+1994,2,53,"Burditt, Albert",PF,Houston Rockets,Texas
+1994,2,54,"Rebrača, Željko",C,Seattle SuperSonics,KK Partizan
+1993,1,1,"Webber, Chris",PF/C,Orlando Magic,Michigan
+1993,1,2,"Bradley, Shawn",C,Philadelphia 76ers,BYU
+1993,1,3,"Hardaway, Penny",PG/SG,Golden State Warriors,Memphis State
+1993,1,4,"Mashburn, Jamal",SF,Dallas Mavericks,Kentucky
+1993,1,5,"Rider, Isaiah",SG,Minnesota Timberwolves,UNLV
+1993,1,6,"Cheaney, Calbert",SG/SF,Washington Bullets,Indiana
+1993,1,7,"Hurley, Bobby",PG,Sacramento Kings,Duke
+1993,1,8,"Baker, Vin",PF,Milwaukee Bucks,Hartford
+1993,1,9,"Rogers, Rodney",PF,Denver Nuggets,Wake Forest
+1993,1,10,"Hunter, Lindsey",PG,Detroit Pistons,Jackson State
+1993,1,11,"Houston, Allan",SG,Detroit Pistons,Tennessee
+1993,1,12,"Lynch, George",SF,Los Angeles Lakers,North Carolina
+1993,1,13,"Dehere, Terry",SG,Los Angeles Clippers,Seton Hall
+1993,1,14,"Haskin, Scott",PF,Indiana Pacers,Oregon State
+1993,1,15,"Edwards, Doug",SF,Atlanta Hawks,Florida State
+1993,1,16,"Walters, Rex",SG,New Jersey Nets,Kansas
+1993,1,17,"Graham, Greg",SG,Charlotte Hornets,Indiana
+1993,1,18,"Wright, Luther",C,Utah Jazz,Seton Hall
+1993,1,19,"Earl, Acie",C,Boston Celtics,Iowa
+1993,1,20,"Burrell, Scott",SF,Charlotte Hornets,Connecticut
+1993,1,21,"Robinson, James",SG,Portland Trail Blazers,Alabama
+1993,1,22,"Mills, Chris",SF,Cleveland Cavaliers,Arizona
+1993,1,23,"Johnson, Ervin",C,Seattle SuperSonics,New Orleans
+1993,1,24,"Cassell, Sam",PG,Houston Rockets,Florida State
+1993,1,25,"Blount, Corie",PF,Chicago Bulls,Cincinnati
+1993,1,26,"Hammink, Geert",C,Orlando Magic,LSU
+1993,1,27,"Mackey, Malcolm",PF,Phoenix Suns,Georgia Tech
+1993,2,28,"Harris, Lucious",PG,Dallas Mavericks,Long Beach State
+1993,2,29,"Mills, Sherron",F/C,Minnesota Timberwolves,VCU
+1993,2,30,"Mureșan, Gheorghe",C,Washington Bullets,Pau-Orthez
+1993,2,31,"Burns, Evers",F,Sacramento Kings,Maryland
+1993,2,32,"Ford, Alphonso",SG,Philadelphia 76ers,Mississippi Valley State
+1993,2,33,"Riley, Eric",C,Dallas Mavericks,Michigan
+1993,2,34,"Mee, Darnell",SG,Golden State Warriors,Western Kentucky
+1993,2,35,"Stokes, Ed",C,Miami Heat,Arizona
+1993,2,36,"Best, John",F/C,New Jersey Nets,Tennessee Tech
+1993,2,37,"Van Exel, Nick",PG,Los Angeles Lakers,Cincinnati
+1993,2,38,"McRae, Conrad",PF,Washington Bullets,Syracuse
+1993,2,39,"Hill, Thomas",SG/SF,Indiana Pacers,Duke
+1993,2,40,"Manning, Rich",C,Atlanta Hawks,Washington
+1993,2,41,"Reed, Anthony",F,Chicago Bulls,Tulane
+1993,2,42,"Jordan, Adonis",PG,Seattle SuperSonics,Kansas
+1993,2,43,"Grant, Josh",PF,Denver Nuggets,Utah
+1993,2,44,"Holcombe, Alex",C,Sacramento Kings,Baylor
+1993,2,45,"Russell, Bryon",SF,Utah Jazz,Long Beach State
+1993,2,46,"Petruška, Richard",C,Houston Rockets,UCLA
+1993,2,47,"Whitney, Chris",PG,San Antonio Spurs,Clemson
+1993,2,48,"Thompson, Kevin",C,Portland Trail Blazers,NC State
+1993,2,49,"Buford, Mark",C,Phoenix Suns,Mississippi Valley State
+1993,2,50,"Nicola, Marcelo",PF,Houston Rockets,Taugres
+1993,2,51,"Dunkley, Spencer",C,Indiana Pacers,Delaware
+1993,2,52,"Peplowski, Mike",C,Sacramento Kings,Michigan State
+1993,2,53,"White, Leonard",F,Los Angeles Clippers,Southern
+1993,2,54,"Wilson, Byron",SG/SF,Phoenix Suns,Utah
+1991,1,1,"Johnson, Larry",PF,Charlotte Hornets,UNLV
+1991,1,2,"Anderson, Kenny",PG,New Jersey Nets,Georgia Tech
+1991,1,3,"Owens, Billy",SF,Sacramento Kings,Syracuse
+1991,1,4,"Mutombo, Dikembe",C,Denver Nuggets,Georgetown
+1991,1,5,"Smith, Steve",SG,Miami Heat,Michigan State
+1991,1,6,"Smith, Doug",PF,Dallas Mavericks,Missouri
+1991,1,7,"Longley, Luc",C,Minnesota Timberwolves,New Mexico
+1991,1,8,"Macon, Mark",SG,Denver Nuggets,Temple
+1991,1,9,Stacey Augmon,SG/SF,Atlanta Hawks,UNLV
+1991,1,10,"Williams, Brian",PF/C,Orlando Magic,Arizona
+1991,1,11,"Brandon, Terrell",PG,Cleveland Cavaliers,Oregon
+1991,1,12,"Anthony, Greg",PG,New York Knicks,UNLV
+1991,1,13,"Davis, Dale",PF,Indiana Pacers,Clemson
+1991,1,14,"King, Rich",C,Seattle SuperSonics,Nebraska
+1991,1,15,"Avent, Anthony",PF,Atlanta Hawks,Seton Hall
+1991,1,16,"Gatling, Chris",PF,Golden State Warriors,Old Dominion
+1991,1,17,"Alexander, Victor",C,Golden State Warriors,Iowa State
+1991,1,18,"Brooks, Kevin",SF,Milwaukee Bucks,Southwestern Louisiana
+1991,1,19,"Smith, LaBradford",SG,Washington Bullets,Louisville
+1991,1,20,"Turner, John",PF,Houston Rockets,Phillips
+1991,1,21,"Murdock, Eric",PG,Utah Jazz,Providence
+1991,1,22,"Ellis, LeRon",PF,Los Angeles Clippers,Syracuse
+1991,1,23,"Roberts, Stanley",C,Orlando Magic,Real Madrid
+1991,1,24,"Fox, Rick",SF,Boston Celtics,North Carolina
+1991,1,25,"Vandiver, Shaun",PF,Golden State Warriors,Colorado
+1991,1,26,"Randall, Mark",PF,Chicago Bulls,Kansas
+1991,1,27,"Chilcutt, Pete",PF,Sacramento Kings,North Carolina
+1991,2,28,"Lynch, Kevin",G/F,Charlotte Hornets,Minnesota
+1991,2,29,"Ackles, George",C/PF,Miami Heat,UNLV
+1991,2,30,"Monroe, Rodney",G/F,Atlanta Hawks,NC State
+1991,2,31,"Brown, Randy",PG,Sacramento Kings,New Mexico State
+1991,2,32,"Gallagher, Chad",C,Phoenix Suns,Creighton
+1991,2,33,"Hodge, Donald",C,Dallas Mavericks,Temple
+1991,2,34,"Brown, Myron",G,Minnesota Timberwolves,Slippery Rock
+1991,2,35,"Iuzzolino, Mike",G,Dallas Mavericks,Saint Francis (PA)
+1991,2,36,"Corchiani, Chris",G,Orlando Magic,NC State
+1991,2,37,"Perry, Elliot",PG,Los Angeles Clippers,Memphis State
+1991,2,38,"Wylie, Joe",PF,Los Angeles Clippers,Miami (FL)
+1991,2,39,"Oliver, Jimmy",G/F,Cleveland Cavaliers,Purdue
+1991,2,40,"Overton, Doug",PG,Detroit Pistons,La Salle
+1991,2,41,"Green, Sean",F/G,Indiana Pacers,Iona
+1991,2,42,"Hood, Steve",SF,Sacramento Kings,James Madison
+1991,2,43,"Strothers, Lamont",G,Golden State Warriors,Christopher Newport
+1991,2,44,"Teherán, Álvaro",C,Philadelphia 76ers,Houston
+1991,2,45,"Phills, Bobby",SG,Milwaukee Bucks,Southern
+1991,2,46,"Dumas, Richard",F,Phoenix Suns,Hapoel Holon
+1991,2,47,"Hughes, Keith",PF,Houston Rockets,Rutgers
+1991,2,48,"Austin, Isaac",C,Utah Jazz,Arizona State
+1991,2,49,"Sutton, Greg",G,San Antonio Spurs,Oral Roberts
+1991,2,50,"Wright, Joey",SG,Phoenix Suns,Texas
+1991,2,51,"Tabak, Žan",C,Houston Rockets,KK Split
+1991,2,52,"Jones, Anthony",SF,Los Angeles Lakers,Oral Roberts
+1991,2,53,"McDade, Von",SG,New Jersey Nets,Milwaukee
+1991,2,54,"Kennedy, Marcus",PF,Portland Trail Blazers,Eastern Michigan
+1988,1,1,"Manning, Danny",PF,Los Angeles Clippers,Kansas
+1988,1,2,"Smits, Rik",C,Indiana Pacers,Marist
+1988,1,3,"Smith, Charles",PF,Philadelphia 76ers,Pittsburgh
+1988,1,4,"Morris, Chris",SF,New Jersey Nets,Auburn
+1988,1,5,"Richmond, Mitch",SG,Golden State Warriors,Kansas State
+1988,1,6,"Hawkins, Hersey",SG,Los Angeles Clippers,Bradley
+1988,1,7,"Perry, Tim",F,Phoenix Suns,Temple
+1988,1,8,"Chapman, Rex",SG,Charlotte Hornets,Kentucky
+1988,1,9,"Seikaly, Rony",C,Miami Heat,Syracuse
+1988,1,10,"Anderson, Willie",SG,San Antonio Spurs,Georgia
+1988,1,11,"Perdue, Will",C,Chicago Bulls,Vanderbilt
+1988,1,12,"Grant, Harvey",SF,Washington Bullets,Oklahoma
+1988,1,13,"Grayer, Jeff",PG,Milwaukee Bucks,Iowa State
+1988,1,14,"Majerle, Dan",SF,Phoenix Suns,Central Michigan
+1988,1,15,"Grant, Gary",PG,Seattle SuperSonics,Michigan
+1988,1,16,"Chievous, Derrick",SG,Houston Rockets,Missouri
+1988,1,17,"Leckner, Eric",C,Utah Jazz,Wyoming
+1988,1,18,"Berry, Ricky",SG,Sacramento Kings,San Jose State
+1988,1,19,"Strickland, Rod",PG,New York Knicks,DePaul
+1988,1,20,"Edwards, Kevin",SG,Miami Heat,DePaul
+1988,1,21,"Bryant, Mark",PF,Portland Trail Blazers,Seton Hall
+1988,1,22,"Keys, Randolph",SF,Cleveland Cavaliers,Southern Miss
+1988,1,23,"Lane, Jerome",PF,Denver Nuggets,Pittsburgh
+1988,1,24,"Shaw, Brian",SG,Boston Celtics,UC Santa Barbara
+1988,1,25,"Rivers, David",PG,Los Angeles Lakers,Notre Dame
+1988,2,26,"Ferreira, Rolando",C,Portland Trail Blazers,Houston
+1988,2,27,"Jones, Shelton",F,San Antonio Spurs,St. John's
+1988,2,28,"Lang, Andrew",C,Phoenix Suns,Arkansas
+1988,2,29,"Del Negro, Vinny",SG,Sacramento Kings,NC State
+1988,2,30,"Dembo, Fennis",PF,Detroit Pistons,Wyoming
+1988,2,31,"Stephens, Everette",G,Philadelphia 76ers,Purdue
+1988,2,32,"Shackleford, Charles",F/C,New Jersey Nets,NC State
+1988,2,33,"Long, Grant",F,Miami Heat,Eastern Michigan
+1988,2,34,"Tolbert, Tom",F/C,Charlotte Hornets,Arizona
+1988,2,35,"Gray, Sylvester",F,Miami Heat,Memphis State
+1988,2,36,"Eackles, Ledell",G/F,Washington Bullets,New Orleans
+1988,2,37,"Butler, Greg",C,New York Knicks,Stanford
+1988,2,38,"Garrett, Dean",C,Phoenix Suns,Indiana
+1988,2,39,"Horford, Tito",C,Milwaukee Bucks,Miami (FL)
+1988,2,40,"Graham, Orlando",F,Miami Heat,Auburn-Montgomery
+1988,2,41,"Smart, Keith",G,Golden State Warriors,Indiana
+1988,2,42,"Moe, Jeff",SG,Utah Jazz,Iowa
+1988,2,43,"Mitchell, Todd",F,Denver Nuggets,Purdue
+1988,2,44,"Taylor, Anthony",G,Atlanta Hawks,Oregon
+1988,2,45,"Garrick, Tom",G,Los Angeles Clippers,Rhode Island
+1988,2,46,"Wiley, Morlon",G,Dallas Mavericks,Long Beach State
+1988,2,47,"Maxwell, Vernon",SG,Denver Nuggets,Florida
+1988,2,48,"Williams, Micheal",G,Detroit Pistons,Baylor
+1988,2,49,"Vargas, José",C/PF,Dallas Mavericks,LSU
+1988,2,50,"Kerr, Steve",PG,Phoenix Suns,Arizona
+1988,3,51,"Lock, Rob",F,Los Angeles Clippers,Kentucky
+1988,3,52,"Hamilton, Derrick",SF,New Jersey Nets,Southern Miss
+1988,3,53,"Mason, Anthony",SF/PF,Portland Trail Blazers,Tennessee State
+1988,3,54,"González, Jorge",C,Atlanta Hawks,Sport Club de Cañada de Gómez
+1988,3,55,"Johns, Rodney",PG,Phoenix Suns,Grand Canyon
+1988,3,56,"Sumpter, Barry",F/C,San Antonio Spurs,Austin Peay
+1988,3,57,"Montenegro, Hernán",PF/C,Philadelphia 76ers,LSU
+1988,3,58,"Moore, Jeff",PF,Charlotte Hornets,Auburn
+1988,3,59,"Johnston, Nate",F,Miami Heat,Tampa
+1988,3,60,Ed Davender,PG,Washington Bullets,Kentucky
+1988,3,61,"Crook, Herbert",SF/SG,Indiana Pacers,Louisville
+1988,3,62,"Lewis, Derrick",PF,Chicago Bulls,Maryland
+1988,3,63,"Jones, Mike",PF,Milwaukee Bucks,Auburn
+1988,3,64,"Bennett, Winston",F,Cleveland Cavaliers,Kentucky
+1988,3,65,"Gaines, Corey",G,Seattle SuperSonics,Loyola Marymount
+1988,3,66,"Boyd, Dwight",SG,Denver Nuggets,Memphis State
+1988,3,67,"Grace, Ricky",G,Utah Jazz,Oklahoma
+1988,3,68,"Middleton, Darryl",PF,Atlanta Hawks,Baylor
+1988,3,69,"Stinnie, Phil",PF,New York Knicks,VCU
+1988,3,70,"Johnson, Jerry",PG,Dallas Mavericks,Florida Southern
+1988,3,71,"Neal, Craig",G,Portland Trail Blazers,Georgia Tech
+1988,3,72,"Johnson, Lee",PF,Detroit Pistons,Norfolk State
+1988,3,73,"Anderson, Michael",G,Indiana Pacers,Drexel
+1988,3,74,"Paddio, Gerald",F/G,Boston Celtics,UNLV
+1988,3,75,"Marshall, Archie",SF,San Antonio Spurs,Kansas
