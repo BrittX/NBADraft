@@ -22,7 +22,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2007,1,21,"Cook, Daequan",SG,Philadelphia 76ers,Ohio State
 2007,1,22,"Dudley, Jared",SF,Charlotte Bobcats,Boston College
 2007,1,23,"Chandler, Wilson",SF,New York Knicks,DePaul
-2007,1,24,"Fernández, Rudy",SG,Phoenix Suns,Joventut Badalona
+2007,1,24,"Fernandez, Rudy",SG,Phoenix Suns,Joventut Badalona
 2007,1,25,"Almond, Morris",SG,Utah Jazz,Rice
 2007,1,26,"Brooks, Aaron",PG,Houston Rockets,Oregon
 2007,1,27,"Afflalo, Arron",SG,Detroit Pistons,UCLA
@@ -37,7 +37,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2007,2,36,"Davidson, Jermareo",PF,Golden State Warriors,Alabama
 2007,2,37,"McRoberts, Josh",PF,Portland Trail Blazers,Duke
 2007,2,38,"Fesenko, Kyrylo",C,Philadelphia 76ers,SK Cherkassy
-2007,2,39,"Barać, Stanko",C,Miami Heat,Široki Brijeg
+2007,2,39,"Barac, Stanko",C,Miami Heat,Široki Brijeg
 2007,2,40,"Sun, Yue",SF,Los Angeles Lakers,Beijing Olympians
 2007,2,41,"Richard, Chris",PF,Minnesota Timberwolves,Florida
 2007,2,42,"Byars, Derrick",SG,Portland Trail Blazers,Vanderbilt
@@ -58,7 +58,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2007,2,57,"Mejia, Sammy",SG,Detroit Pistons,DePaul
 2007,2,58,"Printezis, Giorgos",PF,San Antonio Spurs,Olympia Larissa
 2007,2,59,"Strawberry, D.J.",PG,Phoenix Suns,Maryland
-2007,2,60,"Raković, Milovan",C,Dallas Mavericks,Mega Ishrana
+2007,2,60,"Rakovic, Milovan",C,Dallas Mavericks,Mega Ishrana
 2006,1,1,"Bargnani, Andrea",PF,Toronto Raptors,Benetton Treviso
 2006,1,2,"Aldridge, LaMarcus",PF,Chicago Bulls,Texas
 2006,1,3,"Morrison, Adam",SF,Charlotte Bobcats,Gonzaga
@@ -85,7 +85,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2006,1,24,"Lowry, Kyle",PG,Memphis Grizzlies,Villanova
 2006,1,25,"Brown, Shannon",G,Cleveland Cavaliers,Michigan State
 2006,1,26,"Farmar, Jordan",G,Los Angeles Lakers,UCLA
-2006,1,27,"Rodríguez, Sergio",G,Phoenix Suns,Adecco Estudiantes
+2006,1,27,"Rodriguez, Sergio",G,Phoenix Suns,Adecco Estudiantes
 2006,1,28,"Ager, Maurice",G,Dallas Mavericks,Michigan State
 2006,1,29,"Collins, Mardy",G,New York Knicks,Temple
 2006,1,30,"Freeland, Joel",F,Portland Trail Blazers,Gran Canaria
@@ -96,7 +96,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2006,2,35,"Tucker, P.J.",F,Toronto Raptors,Texas
 2006,2,36,"Smith, Craig",F,Minnesota Timberwolves,Boston College
 2006,2,37,"Jones, Bobby",F,Minnesota Timberwolves,Washington
-2006,2,38,"Perović, Kosta",C,Golden State Warriors,Partizan Belgrade
+2006,2,38,"Perovic, Kosta",C,Golden State Warriors,Partizan Belgrade
 2006,2,39,"Noel, David",F,Milwaukee Bucks,North Carolina
 2006,2,40,"Brown, Denham",G,Seattle SuperSonics,Connecticut
 2006,2,41,"Augustine, James",F,Orlando Magic,Illinois
@@ -114,7 +114,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2006,2,53,"Halperin, Yotam",G,Seattle SuperSonics,Union Olimpija
 2006,2,54,"Adams, Hassan",G,New Jersey Nets,Arizona
 2006,2,55,"Ugboaja, Ejike",F,Cleveland Cavaliers,Union Bank Lagos
-2006,2,56,"Bavčić, Edin",F,Toronto Raptors,ASA BH Telecom
+2006,2,56,"Bavcic, Edin",F,Toronto Raptors,ASA BH Telecom
 2006,2,57,"Mavrokefalidis, Loukas",C,Minnesota Timberwolves,PAOK
 2006,2,58,"Pinnock, J. R.",G,Dallas Mavericks,George Washington
 2006,2,59,"Markota, Damir",F,San Antonio Spurs,Cibona Zagreb
@@ -129,7 +129,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2005,1,8,"Frye, Channing",C,New York Knicks,Arizona
 2005,1,9,"Diogu, Ike",F,Golden State Warriors,Arizona State
 2005,1,10,"Bynum, Andrew",C,Los Angeles Lakers,St. Joseph HS
-2005,1,11,"Vázquez, Fran",F/C,Orlando Magic,Unicaja Málaga
+2005,1,11,"Vazquez, Fran",F/C,Orlando Magic,Unicaja Málaga
 2005,1,12,"Korolev, Yaroslav",F,Los Angeles Clippers,CSKA Moscow
 2005,1,13,"May, Sean",F,Charlotte Bobcats,North Carolina
 2005,1,14,"McCants, Rashad",G,Minnesota Timberwolves,North Carolina
@@ -141,7 +141,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2005,1,20,"Hodge, Julius",G,Denver Nuggets,NC State
 2005,1,21,"Robinson, Nate",G,Phoenix Suns,Washington
 2005,1,22,"Jack, Jarrett",G,Denver Nuggets,Georgia Tech
-2005,1,23,"García, Francisco",G/F,Sacramento Kings,Louisville
+2005,1,23,"Garcia, Francisco",G/F,Sacramento Kings,Louisville
 2005,1,24,"Head, Luther",G,Houston Rockets,Illinois
 2005,1,25,"Petro, Johan",C,Seattle SuperSonics,Pau-Orthez
 2005,1,26,"Maxiell, Jason",F,Detroit Pistons,Cincinnati
@@ -153,20 +153,20 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2005,2,32,"Ewing, Daniel",G,Los Angeles Clippers,Duke
 2005,2,33,"Bass, Brandon",F,New Orleans Hornets,LSU
 2005,2,34,"Miles, C. J.",G,Utah Jazz,Skyline HS
-2005,2,35,"Sánchez, Ricky",F,Portland Trail Blazers,IMG Academy
-2005,2,36,"İlyasova, Ersan",F,Milwaukee Bucks,Ülkerspor
+2005,2,35,"Sanchez, Ricky",F,Portland Trail Blazers,IMG Academy
+2005,2,36,"Ilyasova, Ersan",F,Milwaukee Bucks,Ülkerspor
 2005,2,37,"Turiaf, Ronny",F,Los Angeles Lakers,Gonzaga
 2005,2,38,"Diener, Travis",G,Orlando Magic,Marquette
 2005,2,39,"Wafer, Von",G,Los Angeles Lakers,Florida State
 2005,2,40,"Ellis, Monta",SG,Golden State Warriors,Lanier HS
-2005,2,41,"Ukić, Roko",G,Toronto Raptors,KK Split
+2005,2,41,"Ukic, Roko",G,Toronto Raptors,KK Split
 2005,2,42,"Taft, Chris",F,Golden State Warriors,Pittsburgh
-2005,2,43,"Ilić, Mile",C,New Jersey Nets,KK Reflex
-2005,2,44,"Andriuškevičius, Martynas",C,Orlando Magic,Žalgiris Kaunas
+2005,2,43,"Ilic, Mile",C,New Jersey Nets,KK Reflex
+2005,2,44,"Andriuskevicius, Martynas",C,Orlando Magic,Žalgiris Kaunas
 2005,2,45,"Williams, Louis",SG,Philadelphia 76ers,South Gwinnett HS
 2005,2,46,"Lorbek, Erazem",F,Indiana Pacers,Climamio Bologna
 2005,2,47,"Wright, Bracey",G,Minnesota Timberwolves,Indiana
-2005,2,48,"Gelabale, Mickaël",F,Seattle SuperSonics,Real Madrid
+2005,2,48,"Gelabale, Mickael",F,Seattle SuperSonics,Real Madrid
 2005,2,49,"Blatche, Andray",F,Washington Wizards,South Kent School
 2005,2,50,"Gomes, Ryan",F,Boston Celtics,Providence
 2005,2,51,"Whaley, Robert",C,Utah Jazz,Walsh
@@ -176,11 +176,11 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2005,2,55,"Roberts, Lawrence",F,Seattle SuperSonics,Mississippi State
 2005,2,56,"Johnson, Amir",F,Detroit Pistons,Westchester HS
 2005,2,57,"Gortat, Marcin",F/C,Phoenix Suns,RheinEnergie Köln
-2005,2,58,"Slokar, Uroš",F,Toronto Raptors,Snaidero Udine
+2005,2,58,"Slokar, Uros",F,Toronto Raptors,Snaidero Udine
 2005,2,59,"Akyol, Cenk",G,Atlanta Hawks,Efes Pilsen
 2005,2,60,"Acker, Alex",G,Detroit Pistons,Pepperdine
 2003,1,1,", LeBron James",SF,Cleveland Cavaliers,St. Vincent–St. Mary HS
-2003,1,2,"Miličić, Darko",C,Detroit Pistons,Hemofarm Vršac
+2003,1,2,"Milicic, Darko",C,Detroit Pistons,Hemofarm Vršac
 2003,1,3,"Anthony, Carmelo",SF,Denver Nuggets,Syracuse
 2003,1,4,"Bosh, Chris",F/C,Toronto Raptors,Georgia Tech
 2003,1,5,"Wade, Dwyane",SG,Miami Heat,Marquette
@@ -189,18 +189,18 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2003,1,8,"Ford, T. J.",PG,Milwaukee Bucks,Texas
 2003,1,9,"Sweetney, Michael",PF,New York Knicks,Georgetown
 2003,1,10,"Hayes, Jarvis",F/G,Washington Wizards,Georgia
-2003,1,11,"Piétrus, Mickaël",G/F,Golden State Warriors,Pau-Orthez
+2003,1,11,"Pietrus, Mickael",G/F,Golden State Warriors,Pau-Orthez
 2003,1,12,"Collison, Nick",PF,Seattle SuperSonics,Kansas
 2003,1,13,"Banks, Marcus",PG,Memphis Grizzlies,UNLV
 2003,1,14,"Ridnour, Luke",PG,Seattle SuperSonics,Oregon
 2003,1,15,"Gaines, Reece",F/G,Orlando Magic,Louisville
 2003,1,16,"Bell, Troy",PG,Boston Celtics ,Boston College
-2003,1,17,"Čabarkapa, Žarko",SF,Phoenix Suns,Budućnost Podgorica
+2003,1,17,"Cabarkapa, Zarko",SF,Phoenix Suns,Budućnost Podgorica
 2003,1,18,"West, David",PF,New Orleans Hornets,Xavier
-2003,1,19,"Pavlović, Sasha",F/G,Utah Jazz,Budućnost Podgorica
+2003,1,19,"Pavlovic, Sasha",F/G,Utah Jazz,Budućnost Podgorica
 2003,1,20,"Jones, Dahntay",SG,Boston Celtics ,Duke
 2003,1,21,"Diaw, Boris",PF,Atlanta Hawks,Pau-Orthez
-2003,1,22,"Planinić, Zoran",G/F,New Jersey Nets,Cibona Zagreb
+2003,1,22,"Planinic, Zoran",G/F,New Jersey Nets,Cibona Zagreb
 2003,1,23,"Outlaw, Travis",SF,Portland Trail Blazers,Starkville HS
 2003,1,24,"Cook, Brian",PF,Los Angeles Lakers,Illinois
 2003,1,25,"Delfino, Carlos",SG,Detroit Pistons,Skipper Bologna
@@ -217,14 +217,14 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2003,2,36,"Austin, Mario",PF,Chicago Bulls,Mississippi State
 2003,2,37,"Hansen, Travis",SG,Atlanta Hawks,BYU
 2003,2,38,"Blake, Steve",PG,Washington Wizards,Maryland
-2003,2,39,"Vraneš, Slavko",C,New York Knicks,Budućnost Podgorica
+2003,2,39,"Vranes�, Slavko",C,New York Knicks,Budućnost Podgorica
 2003,2,40,"Zimmerman, Derrick",PG,Golden State Warriors,Mississippi State
 2003,2,41,"Green, Willie",SG,Seattle SuperSonics ,Detroit
 2003,2,42,"Pachulia, Zaza",PF,Orlando Magic,Ülkerspor
 2003,2,43,"Bogans, Keith",SG,Milwaukee Bucks,Kentucky
 2003,2,44,"Badiane, Malick",PF,Houston Rockets,Langen
 2003,2,45,"Bonner, Matt",F,Chicago Bulls,Florida
-2003,2,46,"Bečirović, Sani",SG,Denver Nuggets,Virtus Bologna
+2003,2,46,"Becirovic, Sani",SG,Denver Nuggets,Virtus Bologna
 2003,2,47,"Williams, Mo",PG,Utah Jazz,Alabama
 2003,2,48,"Lang, James",C,New Orleans Hornets,Central Park Christian HS 
 2003,2,49,"Jones, James",SF,Indiana Pacers,Miami (Florida)
@@ -232,7 +232,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2003,2,51,"Korver, Kyle",SG,New Jersey Nets,Creighton
 2003,2,52,"van de Hare, Remon",C,Toronto Raptors,FC Barcelona
 2003,2,53,"Smith, Tommy",PF,Chicago Bulls,Arizona State
-2003,2,54,"Sinanović, Nedžad",C,Portland Trail Blazers,Brotnjo
+2003,2,54,"Sinanovic, Nedzad",C,Portland Trail Blazers,Brotnjo
 2003,2,55,"Rickert, Rick",PF,Minnesota Timberwolves,Minnesota
 2003,2,56,"Hunter, Brandon",PF,Boston Celtics,Ohio
 2003,2,57,"Yuyang, Xue",C,Dallas Mavericks,Hong Kong Flying Dragons
@@ -260,13 +260,13 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2000,1,21,"Peterson, Morris",SF/SG,Toronto Raptors,Michigan State
 2000,1,22,"Harvey, Donnell",SF,New York Knicks,Florida
 2000,1,23,"Stevenson, DeShawn",SG,Utah Jazz,Washington Union HS
-2000,1,24,"Bagarić, Dalibor",C,Chicago Bulls,Benston Zagreb
+2000,1,24,"Bagaric, Dalibor",C,Chicago Bulls,Benston Zagreb
 2000,1,25,"Tsakalidis, Iakovos ""Jake""",C,Phoenix Suns,AEK
 2000,1,26,"N'Diaye, Mamadou",C,Denver Nuggets,Auburn
-2000,1,27,"Brezec, Primož",C,Indiana Pacers,Union Olimpija
+2000,1,27,"Brezec, Primoz",C,Indiana Pacers,Union Olimpija
 2000,1,28,"Barkley, Erick",PG,Portland Trail Blazers,St. John's
 2000,1,29,"Madsen, Mark",PF,Los Angeles Lakers,Stanford
-2000,2,30,"Jarić, Marko",G,Los Angeles Clippers,Paf Bologna
+2000,2,30,"Jaric, Marko",G,Los Angeles Clippers,Paf Bologna
 2000,2,31,"Langhi, Dan",PF,Dallas Mavericks,Vanderbilt
 2000,2,32,"Guyton, A.J.",PG,Chicago Bulls,Indiana
 2000,2,33,"Voskuhl, Jake",C,Chicago Bulls,Connecticut
@@ -274,7 +274,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2000,2,35,"Smith, Mike",F,Washington Wizards,Louisiana-Monroe
 2000,2,36,"Samake, Soumaila",C,New Jersey Nets,Cincinnati Stuff
 2000,2,37,"House, Eddie",SG,Miami Heat,Arizona State
-2000,2,38,"Nájera, Eduardo",PF,Houston Rockets,Oklahoma
+2000,2,38,"Na�jera, Eduardo",PF,Houston Rockets,Oklahoma
 2000,2,39,"Postell, Lavor",SG,New York Knicks,St. John's
 2000,2,40,Mottola,SF/PF,Atlanta Hawks,Utah
 2000,2,41,"Carrawell, Chris",SG,San Antonio Spurs,Duke
@@ -287,7 +287,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 2000,2,48,"Karcher, Mark",PG,Philadelphia 76ers,Temple
 2000,2,49,"Hart, Jason",PG,Milwaukee Bucks,Syracuse
 2000,2,50,"Dickens, Kaniel",F,Utah Jazz,Idaho
-2000,2,51,"Rakočević, Igor",G,Minnesota Timberwolves,Red Star Belgrade
+2000,2,51,"Rakocevic, Igor",G,Minnesota Timberwolves,Red Star Belgrade
 2000,2,52,"Brown, Ernest",C,Miami Heat,Indian Hills CC
 2000,2,53,"McClintock, Dan",C,Denver Nuggets,Northern Arizona
 2000,2,54,"Hightower, Cory",G,San Antonio Spurs,Indian Hills CC
@@ -306,10 +306,10 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1999,1,9,"Marion, Shawn",F,Phoenix Suns,UNLV
 1999,1,10,"Terry, Jason",G,Atlanta Hawks,Arizona
 1999,1,11,"Langdon, Trajan",SG,Cleveland Cavaliers,Duke
-1999,1,12,"Radojević, Aleksandar",C,Toronto Raptors,Barton County CC
+1999,1,12,"Radojevic, Aleksandar",C,Toronto Raptors,Barton County CC
 1999,1,13,"Maggette, Corey",SG/SF,Seattle SuperSonics,Duke
 1999,1,14,"Avery, William",PG,Minnesota Timberwolves,Duke
-1999,1,15,"Weis, Frédéric",C,New York Knicks,Limoges
+1999,1,15,"Weis, Frederic",C,New York Knicks,Limoges
 1999,1,16,"Artest, Ron",SF,Chicago Bulls,St. John's
 1999,1,17,"Bowdler, Cal",PF,Atlanta Hawks,Old Dominion
 1999,1,18,"Posey, James",SG/SF,Denver Nuggets,Xavier
@@ -334,7 +334,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1999,2,37,"Ekezie, Obinna",C,Vancouver Grizzlies,Maryland
 1999,2,38,"Profit, Laron",SG/SF,Orlando Magic,Maryland
 1999,2,39,"Bramlett, A. J.",C,Cleveland Cavaliers,Arizona
-1999,2,40,"Giriček, Gordan",G/F,Dallas Mavericks,CSKA Moscow
+1999,2,40,"Giricek, Gordan",G/F,Dallas Mavericks,CSKA Moscow
 1999,2,41,"Elson, Francisco",C,Denver Nuggets,California
 1999,2,42,"Bullock, Louis",G,Minnesota Timberwolves,Michigan
 1999,2,43,"Nailon, Lee",SF,Charlotte Hornets,TCU
@@ -351,7 +351,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1999,2,54,"Levett, Melvin",SG,Detroit Pistons,Cincinnati
 1999,2,55,"Clack, Kris",G,Boston Celtics,Texas
 1999,2,56,"Young, Tim",C,Golden State Warriors,Stanford
-1999,2,57,"Ginóbili, Manu",SG,San Antonio Spurs,Viola Reggio Calabria
+1999,2,57,"Ginobili, Manu",SG,San Antonio Spurs,Viola Reggio Calabria
 1999,2,58,"Lucas, Eddie",G,Utah Jazz,Virginia Tech
 1998,1,1,"Olowokandi, Michael",C,Los Angeles Clippers,Pacific
 1998,1,2,"Bibby, Mike",PG,Vancouver Grizzlies,Arizona
@@ -369,14 +369,14 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1998,1,14,"Dickerson, Michael",SG,Houston Rockets,Arizona
 1998,1,15,"Harpring, Matt",F/G,Orlando Magic,Georgia Tech
 1998,1,16,"Drew, Bryce",PG,Houston Rockets,Valparaíso
-1998,1,17,"Nesterovič, Radoslav",C,Minnesota Timberwolves,Kinder Bologna
-1998,1,18,"Türkcan, Mirsad",PF,Houston Rockets,Efes Pilsen
+1998,1,17,"Nesterovic�, Radoslav",C,Minnesota Timberwolves,Kinder Bologna
+1998,1,18,"Turkcan, Mirsad",PF,Houston Rockets,Efes Pilsen
 1998,1,19,"Garrity, Pat",PF,Milwaukee Bucks,Notre Dame
 1998,1,20,"McLeod, Roshown",SF,Atlanta Hawks,Duke
 1998,1,21,"Davis, Ricky",G/F,Charlotte Hornets,Iowa
 1998,1,22,"Skinner, Brian",F/C,Los Angeles Clippers,Baylor
 1998,1,23,"Lue, Tyronn",PG,Denver Nuggets,Nebraska
-1998,1,24,"López, Felipe",SG,San Antonio Spurs,St. John's
+1998,1,24,"Lopez, Felipe",SG,San Antonio Spurs,St. John's
 1998,1,25,"Harrington, Al",F,Indiana Pacers,St. Patrick's High School
 1998,1,26,"Jacobson, Sam",SG,Los Angeles Lakers,Minnesota
 1998,1,27,"Stepania, Vladimir",C,Seattle SuperSonics,Olimpija Ljubljana
@@ -387,7 +387,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1998,2,32,"Lewis, Rashard",PF,Seattle SuperSonics,Alief Elsik HS
 1998,2,33,"McCoy, Jelani",F/C,Seattle SuperSonics,UCLA
 1998,2,34,"Williams, Shammond",PG,Chicago Bulls,North Carolina
-1998,2,35,"Šundov, Bruno",C,Dallas Mavericks,Split
+1998,2,35,"Sundov, Bruno",C,Dallas Mavericks,Split
 1998,2,36,"James, Jerome",C,Sacramento Kings,Florida A&M
 1998,2,37,"Shaw, Casey",C,Philadelphia 76ers,Toledo
 1998,2,38,"Johnson, DeMarco",PF,New York Knicks,Charlotte
@@ -443,7 +443,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1997,2,30,"Sanford, Mark",SF/PF,Miami Heat,Washington
 1997,2,31,"O'Bannon, Charles",PG,Detroit Pistons,UCLA
 1997,2,32,"Cotton, James",SF,Denver Nuggets,Long Beach State
-1997,2,33,"Milič, Marko",PG/SG,Philadelphia 76ers,Smelt Olimpija
+1997,2,33,"Milic�, Marko",PG/SG,Philadelphia 76ers,Smelt Olimpija
 1997,2,34,"Wells, Bubba",SF/PF,Dallas Mavericks,Austin Peay
 1997,2,35,"Stewart, Kebu",SF/PF,Philadelphia 76ers,Cal State Bakersfield
 1997,2,36,"Collins, James",PG/SG,Philadelphia 76ers,Florida State
@@ -467,7 +467,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1997,2,54,"Blount, Mark",C,Seattle SuperSonics,Pittsburgh
 1997,2,55,"Pepper, Ben",C,Boston Celtics,Newcastle Falcons
 1997,2,56,"Erdmann, Nate",SG,Utah Jazz,Oklahoma
-1997,2,57,"Dueñas, Roberto",C,Chicago Bulls,FC Barcelona
+1997,2,57,"Duenas, Roberto",C,Chicago Bulls,FC Barcelona
 1996,1,1,"Iverson, Allen",G,Philadelphia 76ers,Georgetown
 1996,1,2,"Camby, Marcus",C,Toronto Raptors,Massachusetts
 1996,1,3,"Abdur-Rahim, Shareef",F,Vancouver Grizzlies,California
@@ -481,18 +481,18 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1996,1,11,"Fuller, Todd",C,Golden State Warriors,NC State
 1996,1,12,"Potapenko, Vitaly",C,Cleveland Cavaliers,Wright State
 1996,1,13,"Bryant, Kobe",G,Charlotte Hornets,Lower Merion HS
-1996,1,14,"Stojaković, Peja",F,Sacramento Kings,PAOK
+1996,1,14,"Stojakovic, Peja",F,Sacramento Kings,PAOK
 1996,1,15,"Nash, Steve",G,Phoenix Suns,Santa Clara
 1996,1,16,"Delk, Tony",G,Charlotte Hornets,Kentucky
 1996,1,17,"O'Neal, Jermaine",F/C,Portland Trail Blazers,Eau Claire HS 
 1996,1,18,"Wallace, John",F,New York Knicks,Syracuse
 1996,1,19,"McCarty, Walter",F,New York Knicks,Kentucky
-1996,1,20,"Ilgauskas, Žydrūnas",C,Cleveland Cavaliers,Atletas Kaunas
+1996,1,20,"Ilgauskas,Zydrunas",C,Cleveland Cavaliers,Atletas Kaunas
 1996,1,21,"Jones, Dontae",F,New York Knicks,Mississippi State
 1996,1,22,"Rogers, Roy",F,Vancouver Grizzlies,Alabama
 1996,1,23,"Rentzias, Efthimios",C,Denver Nuggets,PAOK
 1996,1,24,"Fisher, Derek",G,Los Angeles Lakers,Arkansas-Little Rock
-1996,1,25,"Müürsepp, Martin",F,Utah Jazz,Tallinna Kalev
+1996,1,25,"Muursepp, Martin",F,Utah Jazz,Tallinna Kalev
 1996,1,26,"Williams, Jerome",F,Detroit Pistons,Georgetown
 1996,1,27,"Evans, Brian",F,Orlando Magic,Indiana
 1996,1,28,"Lauderdale, Priest",C,Atlanta Hawks,Peristeri
@@ -556,7 +556,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1995,1,28,"Ostertag, Greg",C,Utah Jazz,Kansas
 1995,1,29,"Alexander, Cory",PG,San Antonio Spurs,Virginia
 1995,2,30,"Roe, Lou",F,Detroit Pistons,UMass
-1995,2,31,"Tarlać, Dragan",C,Chicago Bulls,Olympiakos
+1995,2,31,"Tarlac, Dragan",C,Chicago Bulls,Olympiakos
 1995,2,32,"Rencher, Terrence",G,Washington Bullets,Texas
 1995,2,33,"Burrough, Junior",F,Boston Celtics,Virginia
 1995,2,34,"DeClercq, Andrew",PF/C,Golden State Warriors,Florida
@@ -637,7 +637,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1994,2,51,"Funderburke, Lawrence",PF,Sacramento Kings,Ohio State
 1994,2,52,"Goldwire, Anthony",PG,Phoenix Suns,Houston
 1994,2,53,"Burditt, Albert",PF,Houston Rockets,Texas
-1994,2,54,"Rebrača, Željko",C,Seattle SuperSonics,KK Partizan
+1994,2,54,"Rebraca, Zeljko",C,Seattle SuperSonics,KK Partizan
 1993,1,1,"Webber, Chris",PF/C,Orlando Magic,Michigan
 1993,1,2,"Bradley, Shawn",C,Philadelphia 76ers,BYU
 1993,1,3,"Hardaway, Penny",PG/SG,Golden State Warriors,Memphis State
@@ -667,7 +667,7 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1993,1,27,"Mackey, Malcolm",PF,Phoenix Suns,Georgia Tech
 1993,2,28,"Harris, Lucious",PG,Dallas Mavericks,Long Beach State
 1993,2,29,"Mills, Sherron",F/C,Minnesota Timberwolves,VCU
-1993,2,30,"Mureșan, Gheorghe",C,Washington Bullets,Pau-Orthez
+1993,2,30,"Muresan, Gheorghe",C,Washington Bullets,Pau-Orthez
 1993,2,31,"Burns, Evers",F,Sacramento Kings,Maryland
 1993,2,32,"Ford, Alphonso",SG,Philadelphia 76ers,Mississippi Valley State
 1993,2,33,"Riley, Eric",C,Dallas Mavericks,Michigan
@@ -735,14 +735,14 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1991,2,41,"Green, Sean",F/G,Indiana Pacers,Iona
 1991,2,42,"Hood, Steve",SF,Sacramento Kings,James Madison
 1991,2,43,"Strothers, Lamont",G,Golden State Warriors,Christopher Newport
-1991,2,44,"Teherán, Álvaro",C,Philadelphia 76ers,Houston
+1991,2,44,"Teheran, Alvaro",C,Philadelphia 76ers,Houston
 1991,2,45,"Phills, Bobby",SG,Milwaukee Bucks,Southern
 1991,2,46,"Dumas, Richard",F,Phoenix Suns,Hapoel Holon
 1991,2,47,"Hughes, Keith",PF,Houston Rockets,Rutgers
 1991,2,48,"Austin, Isaac",C,Utah Jazz,Arizona State
 1991,2,49,"Sutton, Greg",G,San Antonio Spurs,Oral Roberts
 1991,2,50,"Wright, Joey",SG,Phoenix Suns,Texas
-1991,2,51,"Tabak, Žan",C,Houston Rockets,KK Split
+1991,2,51,"Tabak, Zan",C,Houston Rockets,KK Split
 1991,2,52,"Jones, Anthony",SF,Los Angeles Lakers,Oral Roberts
 1991,2,53,"McDade, Von",SG,New Jersey Nets,Milwaukee
 1991,2,54,"Kennedy, Marcus",PF,Portland Trail Blazers,Eastern Michigan
@@ -794,15 +794,15 @@ Year,Round,Pick,Player,Position,NBA Team,Prev Team
 1988,2,46,"Wiley, Morlon",G,Dallas Mavericks,Long Beach State
 1988,2,47,"Maxwell, Vernon",SG,Denver Nuggets,Florida
 1988,2,48,"Williams, Micheal",G,Detroit Pistons,Baylor
-1988,2,49,"Vargas, José",C/PF,Dallas Mavericks,LSU
+1988,2,49,"Vargas, Jose",C/PF,Dallas Mavericks,LSU
 1988,2,50,"Kerr, Steve",PG,Phoenix Suns,Arizona
 1988,3,51,"Lock, Rob",F,Los Angeles Clippers,Kentucky
 1988,3,52,"Hamilton, Derrick",SF,New Jersey Nets,Southern Miss
 1988,3,53,"Mason, Anthony",SF/PF,Portland Trail Blazers,Tennessee State
-1988,3,54,"González, Jorge",C,Atlanta Hawks,Sport Club de Cañada de Gómez
+1988,3,54,"Gonzalez, Jorge",C,Atlanta Hawks,Sport Club de Cañada de Gómez
 1988,3,55,"Johns, Rodney",PG,Phoenix Suns,Grand Canyon
 1988,3,56,"Sumpter, Barry",F/C,San Antonio Spurs,Austin Peay
-1988,3,57,"Montenegro, Hernán",PF/C,Philadelphia 76ers,LSU
+1988,3,57,"Montenegro, Hernan",PF/C,Philadelphia 76ers,LSU
 1988,3,58,"Moore, Jeff",PF,Charlotte Hornets,Auburn
 1988,3,59,"Johnston, Nate",F,Miami Heat,Tampa
 1988,3,60,Ed Davender,PG,Washington Bullets,Kentucky
