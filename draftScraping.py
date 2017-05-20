@@ -11,7 +11,6 @@ import time
 import sys
 import datetime
 import requests
-import pandas
 
 # Globals
 start_time = time.time()
